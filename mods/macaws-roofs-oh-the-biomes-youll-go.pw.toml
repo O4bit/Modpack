@@ -1,0 +1,13 @@
+name = "[DISCONTINUED] Macaw's Roofs - Oh The Biomes You'll Go / Oh The Biomes We've Gone"
+filename = "z_mcwroofsbyg-fabric-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21ba58cc8670b4f7f5e7c7251a4b8146b6235c45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5579902
+project-id = 577356

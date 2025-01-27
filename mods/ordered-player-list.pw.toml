@@ -1,0 +1,13 @@
+name = "Ordered Player List"
+filename = "orderedplayerlist-0.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "371aae1c652b8a7ee64486544547919d6efd49ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4709924
+project-id = 903940

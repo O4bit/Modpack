@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone Delight"
+filename = "otbygdelight-1.0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af4b5e36f94847919cf90a3ad2163937ff5d47bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5768905
+project-id = 1095055

@@ -1,0 +1,13 @@
+name = "Interference API"
+filename = "interference-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e62ae8106d5eb1dab43ec28aadfd402b1b037f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4777665
+project-id = 561986

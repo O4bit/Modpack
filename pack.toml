@@ -1,0 +1,13 @@
+name = "Building Modpack"
+author = "O4bit"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "965eeba47bb10ffdf54d6946f6ffe28446c14f8d2eeaa4bdb93ad119f6a016a5"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.1"
