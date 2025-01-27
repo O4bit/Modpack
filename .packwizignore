@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+/LICENSE
+/CNAME
+/packwiz.exe
