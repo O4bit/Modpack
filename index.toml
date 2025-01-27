@@ -1517,14 +1517,6 @@ file = "options.txt"
 hash = "9827f4ede1fc7922aabc2feac3d9e94f08651105a050fcf7a9e055613ed82c40"
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "bcfbad415e4c46e708c5566c069bee4fdb68d9a43bce1839613b4e59e3d17322"
-
-[[files]]
-file = "resourcepacks/SodiumTranslations.zip"
-hash = "5271af5bc6bdc71401152fd3b0e2b76062596047d2bf70d7c6b1594378098817"
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "0386644422f0bdddbfa7bd8e727f9402fd45bde4b1aca7d307ad88fc1e6bf015"
 metafile = true
