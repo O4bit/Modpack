@@ -1070,11 +1070,6 @@ hash = "e3037ad0f9c75f94f56feb0f155575c79e79b56e750b9d29b591e25c82f72d08"
 metafile = true
 
 [[files]]
-file = "mods/.index/emi-create-schematics.pw.toml"
-hash = "69d89cc2267ee64784912b12fd2e7c48cececb0e78bcd2a7ba2ca92931138f77"
-metafile = true
-
-[[files]]
 file = "mods/.index/emi.pw.toml"
 hash = "3b7103db68b60a4f77e65612adb774d20c04a6774240c4d4defea1279eb7c43d"
 metafile = true
