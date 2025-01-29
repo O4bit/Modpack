@@ -1,6 +1,6 @@
-name = "Building Modpack"
+name = "Building modpack"
 author = "O4bit"
-version = "1.0.0"
+version = "3.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
