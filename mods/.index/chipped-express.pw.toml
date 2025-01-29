@@ -1,0 +1,16 @@
+filename = 'ChippedExpress-universal.jar'
+name = 'Chipped Express'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5', '1.17.1', '1.18.1', '1.18.2', '1.19.2', '1.20', '1.20.1', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eab1022a795c493685cda5917ce1b556c385005c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5528635
+project-id = 938916

@@ -1,0 +1,16 @@
+filename = 'ae2qolrecipes-fabric-1.18.2-1.20.x-1.2.0.jar'
+name = 'AE2 QoL Recipes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7f66b41598a1a46437d0a9043f75dc584931885c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5312159
+project-id = 907026

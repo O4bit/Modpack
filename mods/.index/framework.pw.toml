@@ -1,0 +1,16 @@
+filename = 'framework-fabric-1.20.1-0.7.12.jar'
+name = 'Framework'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4c0c04fc1f676e0e4ef25648a216aceaeb151627'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5911975
+project-id = 549225

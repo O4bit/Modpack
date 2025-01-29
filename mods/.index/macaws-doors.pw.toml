@@ -1,0 +1,16 @@
+filename = 'mcw-doors-1.1.1fabric-mc1.20.1.jar'
+name = "Macaw's Doors"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd4a1e476aca8b9c56f6eb9575962122ef986c0fc4a7bb11607525c3ad2cfd1447c73932cb00a5da41026851c3ad6d61e4ba85ede7f4271694df6a41c1adb6c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kNxa8z3e/versions/vkuwEpj0/mcw-doors-1.1.1fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'kNxa8z3e'
+version = 'vkuwEpj0'

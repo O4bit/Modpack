@@ -1,0 +1,16 @@
+filename = 'otbygdelight-1.0.2.1-1.20.1.jar'
+name = "Oh The Biomes We've Gone Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2ef1fb80e5eac4263eed26e459fc9f6bd75aa5e033b026fd459d4355602be0f28829de7ba000a1304e212e1aab264cda0ff482ac883bee148f24b9451b8d96b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GxuOOqGt/versions/AQp6ck9U/otbygdelight-1.0.2.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'GxuOOqGt'
+version = 'AQp6ck9U'

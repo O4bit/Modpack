@@ -61,6 +61,9 @@
 	#Vertical offset for the Toolbox Hotbar overlay.
 	#Range: > -2147483648
 	toolboxHotbarOverlayOffset = 0
+	#.
+	#Disable to prevent being rotated while seated on a Moving Contraption
+	rotateWhenSeated = true
 
 	#.
 	#Configure your vision range when submerged in Create's custom fluids
