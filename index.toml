@@ -853,10 +853,6 @@ file = "mods/FastScrolling-2.0.1.jar"
 hash = "c2042ddb6235b4255d4cb2f890f43817b87f820914f10651cb494f01ef9d74ca"
 
 [[files]]
-file = "mods/Fastload+1.18.2-1.20-3.4.0.jar"
-hash = "e13ab713f9779623de29bb50396b3202d670532bd4605f74c907d4f7834c1637"
-
-[[files]]
 file = "mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
 hash = "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc"
 
@@ -871,6 +867,10 @@ hash = "74b00f80344941519f2bdf9a9e98094e731aaaf87edf21c88cd4c1c51553a8d8"
 [[files]]
 file = "mods/Kiwi-1.20.1-Fabric-11.8.28.jar"
 hash = "2ce98ad2b697a1b578282a2a732148289bf9882cb71ad818303326840caa647a"
+
+[[files]]
+file = "mods/Ksyxis-1.3.2.jar"
+hash = "c820280f0d5073a467f564269440285b7cad5345a5da733696719e92b95a1dc8"
 
 [[files]]
 file = "mods/MouseTweaks-fabric-mc1.20-2.26.jar"
@@ -1091,10 +1091,6 @@ hash = "c3b9ea2f3b74234095006815f49adfc3c1886941430dd727a78560ab891bb66f"
 [[files]]
 file = "mods/dynamic-fps-3.7.7+minecraft-1.20.0-fabric.jar"
 hash = "cb7133de9043de4a02b9ff812fa12eadb4b6363400b87131ea7e7c02821d6a64"
-
-[[files]]
-file = "mods/e4mc_minecraft-fabric-5.2.1.jar"
-hash = "dc1f221f43e3737c3fdc3b4e73bee4d03577ad90c60cdf625068c78ae864e466"
 
 [[files]]
 file = "mods/emi-1.1.19+1.20.1+fabric.jar"
