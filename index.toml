@@ -1033,10 +1033,6 @@ file = "mods/connectedglass-1.1.12-fabric-mc1.20.1.jar"
 hash = "f0be64d444935d14fb91451efa646d4692619eec3e43a734272dfd916aaa70f2"
 
 [[files]]
-file = "mods/continuity-3.0.0+1.20.1.jar"
-hash = "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3"
-
-[[files]]
 file = "mods/copycats-2.1.4+mc.1.20.1-fabric.jar"
 hash = "c46f64bac0ea9590b4bd8bbe37b750b72233741dfd0505ddf10ca99e8b7be789"
 
@@ -1091,6 +1087,10 @@ hash = "c3b9ea2f3b74234095006815f49adfc3c1886941430dd727a78560ab891bb66f"
 [[files]]
 file = "mods/dynamic-fps-3.7.7+minecraft-1.20.0-fabric.jar"
 hash = "cb7133de9043de4a02b9ff812fa12eadb4b6363400b87131ea7e7c02821d6a64"
+
+[[files]]
+file = "mods/embeddium-fabric-0.3.25+mc1.20.1.jar"
+hash = "d3206b83d14491aac9a361d99afc9a0fafed080f44994c1642e2544855c6fee7"
 
 [[files]]
 file = "mods/emi-1.1.19+1.20.1+fabric.jar"
@@ -1385,10 +1385,6 @@ file = "mods/redbits-1.16.6.jar"
 hash = "027429b001b5461ca3f3ee7bf88e1de578fde9af924a5efa4dfa0e972219840c"
 
 [[files]]
-file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
-hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
-
-[[files]]
 file = "mods/refurbished_furniture-fabric-1.20.1-1.0.8.jar"
 hash = "b1f1b6286ad447065cebb7865ea2352893ae3c2b397a45b77eb107128dec87ee"
 
@@ -1409,12 +1405,8 @@ file = "mods/servercore-fabric-1.5.2+1.20.1.jar"
 hash = "d02253ab7566f2a6632cc78c9708dd768cf77ac8123351ed63be25e4f8cb317f"
 
 [[files]]
-file = "mods/sodium-extra-0.5.4+mc1.20.1-build.115.jar"
-hash = "e1cf1048d0ee55f9e4c381a165a1304300c8615e5071d78cc912262b362da81d"
-
-[[files]]
-file = "mods/sodium-fabric-0.5.11+mc1.20.1.jar"
-hash = "5413baaa260a2eadcee4221b8e7105a8e2a9b5b2c84b73f704f2740319aab7df"
+file = "mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+hash = "c3b24e230beb1e69d6c11fe3d5c9f9683ffb141d696d60b8bf6c229b0aed5495"
 
 [[files]]
 file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
@@ -1455,10 +1447,6 @@ hash = "c8e3744a5ab0387d59f83679dd54729aab326dc3cde39c166ad08222ec9b9d23"
 [[files]]
 file = "mods/watut-fabric-1.20.1-1.1.3.jar"
 hash = "a3196ce461278a29aca4d569d8c7f61d5d024d738953e75dd6fd780738210cec"
-
-[[files]]
-file = "mods/xlpackets-fabric-1.20.1-1.0.5.jar.disabled"
-hash = "0e7a6f074eff63133f1edeffdb13a0119822a9665a4db6fb1a75d2741e7fe3f5"
 
 [[files]]
 file = "mods/yosbr-0.1.2.jar"
