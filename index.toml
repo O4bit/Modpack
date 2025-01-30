@@ -893,6 +893,10 @@ file = "mods/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.4.jar"
 hash = "495b998fefcc31f40201804049f921edddf788f2cf63c7b794e96cafeb56d531"
 
 [[files]]
+file = "mods/ReFramed-1.6.6.jar"
+hash = "fa46ce2002368c52501832573812e51f4bdc205ce6c45a310cce1747fe1376a8"
+
+[[files]]
 file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
 hash = "d377ecc4e4217705d162164ea8834f71f8f91881016edb941f6d455f77adde09"
 
