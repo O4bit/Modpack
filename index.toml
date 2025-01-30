@@ -1209,10 +1209,6 @@ file = "mods/immersive_melodies-0.3.0+1.20.1-fabric.jar"
 hash = "17614319862b32d247e9b4ff588f70db89423e74a579c06c4193bba40dd45073"
 
 [[files]]
-file = "mods/indium-1.0.34+mc1.20.1.jar"
-hash = "33bdc7f01bdca61fd1d526e9e6ae1acdf107412ed0f6483da528d7eadc919059"
-
-[[files]]
 file = "mods/interference-1.7.0.jar"
 hash = "425f59e83400717361b907c64cb9d7024ce5cb1a6fa39a143ff7f9e47ffd66ba"
 
