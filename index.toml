@@ -993,6 +993,10 @@ file = "mods/bettermounthud-1.2.2.jar"
 hash = "5de386555011840070dbbe7942422a8247b0b30a9d6d06d21c3c188ae53dde2f"
 
 [[files]]
+file = "mods/bitsandchisels-2.7.3.jar"
+hash = "5faae0810a8643b2cecd756600fae08265d713763a44c7e14f537e159af51ece"
+
+[[files]]
 file = "mods/borderless-mining-1.1.8+1.20.1.jar"
 hash = "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a"
 
