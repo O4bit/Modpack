@@ -1413,6 +1413,10 @@ file = "mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
 hash = "c3b24e230beb1e69d6c11fe3d5c9f9683ffb141d696d60b8bf6c229b0aed5495"
 
 [[files]]
+file = "mods/stacc-1.7.0.jar"
+hash = "27094c55f412b05377f8e060e39754d8821e382da6b45f9d0005dbb09b7894a9"
+
+[[files]]
 file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
 hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
 
