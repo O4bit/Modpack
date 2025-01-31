@@ -1037,8 +1037,8 @@ file = "mods/connectedglass-1.1.12-fabric-mc1.20.1.jar"
 hash = "f0be64d444935d14fb91451efa646d4692619eec3e43a734272dfd916aaa70f2"
 
 [[files]]
-file = "mods/copycats-2.1.4+mc.1.20.1-fabric.jar"
-hash = "c46f64bac0ea9590b4bd8bbe37b750b72233741dfd0505ddf10ca99e8b7be789"
+file = "mods/copycats-2.1.4+mc.1.20.1-fabric-build.186.jar"
+hash = "960a13358522b903fe36a3969398f9439445df3359c21324d6ecbd4415b7818d"
 
 [[files]]
 file = "mods/coroutil-fabric-1.20.1-1.3.7.jar"
