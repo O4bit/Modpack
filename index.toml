@@ -977,6 +977,10 @@ file = "mods/architectury-9.2.14-fabric.jar"
 hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
 
 [[files]]
+file = "mods/armourersworkshop-fabric-1.20.1-3.1.5-beta.jar"
+hash = "37b8ccced6082c91512bde5caa16a3c4b1deb72189a531e8f04b4c3dd843afbc"
+
+[[files]]
 file = "mods/athena-fabric-1.20.1-3.1.2.jar"
 hash = "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd"
 
