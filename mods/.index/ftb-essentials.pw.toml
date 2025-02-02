@@ -1,0 +1,16 @@
+filename = 'ftb-essentials-fabric-2001.2.2.jar'
+name = 'FTB Essentials (Forge & Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'dbee22ff3a9c0be3dcc2c3a7d88b84b55465c959'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4896151
+project-id = 410811
