@@ -1439,7 +1439,3 @@ hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
 [[files]]
 file = "options.txt"
 hash = "9827f4ede1fc7922aabc2feac3d9e94f08651105a050fcf7a9e055613ed82c40"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4.zip"
-hash = "e8c87ded236db9db6b8072cb1b2db6738ce5e1503502e0047bba89e21400e2fa"
