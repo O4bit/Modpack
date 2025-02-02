@@ -905,11 +905,6 @@ hash = "aca5134f78a295594730c2b44c2666e3dfe4774c7d34805eb55c04db192513e1"
 metafile = true
 
 [[files]]
-file = "mods/.index/c2me-fabric.pw.toml"
-hash = "4eb0eee7c7db2ced6c9d6172c807c42a2e6027253c88b30b6bedfa852498e67d"
-metafile = true
-
-[[files]]
 file = "mods/.index/capes.pw.toml"
 hash = "996ea3f0d44c9658332ff89c5ea347c3a2d6f635ccbaa3f5afd6ca5bed958127"
 metafile = true
@@ -1793,10 +1788,6 @@ hash = "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a"
 [[files]]
 file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
 hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
-
-[[files]]
-file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.15.jar.disabled"
-hash = "f49595133f66450be2ba302515818b5c1e66ef8a93f9e54e7aceaa4b21044102"
 
 [[files]]
 file = "mods/capes-1.5.2+1.20-fabric.jar"

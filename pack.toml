@@ -1,4 +1,4 @@
-name = "Building modpack"
+name = "Building Modpack"
 author = "O4bit"
 version = "3.1.5"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e8b5af6fa4997aada10376180c68be9fe30010bd785e2a00c3a911102fa4da7"
+hash = "030e16d2f4522e14e930978378453b8bae64207c5d6753537f0721394bfe706e"
 
 [versions]
 fabric = "0.16.10"
