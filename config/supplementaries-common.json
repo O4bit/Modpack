@@ -202,8 +202,7 @@
       "gui": true
     },
     "pedestal": {
-      "enabled": true,
-      "crystal_enchanting": 3
+      "enabled": true
     },
     "ash": {
       "enabled": true,
@@ -401,8 +400,6 @@
     "placeable_books": {
       "written_books": true,
       "enabled": true,
-      "book_power": 1.0,
-      "enchanted_book_power": 1.334,
       "mixed_books": false
     },
     "zombie_horse": {

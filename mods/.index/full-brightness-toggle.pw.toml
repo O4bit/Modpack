@@ -1,0 +1,16 @@
+filename = 'fullbrightnesstoggle-1.20.1-4.3.jar'
+name = 'Full Brightness Toggle'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c488f73fa98b9df4a8acd9f819296b543f9d6a4010bce7c9c56a79f0a0b527478688c68b65539c104bc727cec27bc74c0d12e5431b995fd7aa826464b0c805f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aEK1KhsC/versions/9UsRPWLi/fullbrightnesstoggle-1.20.1-4.3.jar'
+
+[update.modrinth]
+mod-id = 'aEK1KhsC'
+version = '9UsRPWLi'

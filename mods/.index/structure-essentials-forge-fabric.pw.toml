@@ -1,0 +1,16 @@
+filename = 'structureessentials-fabric-1.20.1-4.2.jar'
+name = 'Structure Essentials[Forge/Fabric]'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ce3e1a0bfda26a52e7f50fc2d82bfa52cc6e601'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6132066
+project-id = 832882

@@ -1,0 +1,31 @@
+filename = 'sodium-shadowy-path-blocks-3.4.1.jar'
+name = 'Sodium Shadowy Path Blocks'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '70fa3cd67ff8f7c86cb2b8c76d64be4385a0dcc385cb77bb2e901b86063dd8f02bb80b54167289fc21c80dee3b4ee05ba8719aaa9b107079ffb0c2dee476ab33'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EIa1eiMm/versions/jPiQnJVA/sodium-shadowy-path-blocks-3.4.1.jar'
+
+[update.modrinth]
+mod-id = 'EIa1eiMm'
+version = 'jPiQnJVA'

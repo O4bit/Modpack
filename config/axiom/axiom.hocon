@@ -23,7 +23,7 @@ capabilities {
     # Hold down left-click to break blocks very fast
     bulldozer=true
     # Place blocks very fast in a controlled manner
-    fastPlace=false
+    fastPlace=true
     flightCameraDirection=true
     flightMomentum=0
     # Bypass block placement restrictions
@@ -32,13 +32,13 @@ capabilities {
     infiniteReach=true
     infiniteReachLimit=-1
     # Move through blocks while flying
-    noClip=false
+    noClip=true
     # Prevent triggering neighbor updates when placing/breaking
     noUpdates=false
     # Right-click blocks to replace them with the held block
     replaceMode=false
     # Various useful interactions when right-clicking with your fist
-    tinker=true
+    tinker=false
     typeReplace=false
 }
 keybinds {

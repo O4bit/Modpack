@@ -1,0 +1,20 @@
+{
+	// Formula for custom tick rate calculation. Use tps as the variable for TPS.
+	"tickRateFormula": "3 - (tps / 10)",
+	/* Tick Rate for Living Entities. 
+	   Set to 0 for a TPS-based Tick Rate.
+	*/
+	"specificTickRateLivingEntities": 0,
+	/* Tick Rate for Item Entities. 
+	   Set to 0 for a TPS-based Tick Rate.
+	*/
+	"specificTickRateItemEntities": 0,
+	/* Tick Rate for Block Entities. 
+	   Set to 0 for a TPS-based Tick Rate.
+	*/
+	"specificTickRateBlockEntities": 0,
+	/* Tick Rate for Nether Portal Blocks. 
+	   Set to 0 for a TPS-based Tick Rate.
+	*/
+	"specificTickRateNetherPortalBlocks": 0
+}

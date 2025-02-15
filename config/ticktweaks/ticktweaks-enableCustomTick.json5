@@ -1,0 +1,28 @@
+{
+	// Enable custom Tick Rate changes for the Overworld.
+	"tickOverworld": true,
+	// Enable custom Tick Rate changes for the Nether.
+	"tickNether": true,
+	// Enable custom Tick Rate changes for the End.
+	"tickEnd": true,
+	/* Living Entities exempt from custom Tick Rate. 
+	   List Living Entities IDs separated by commas (e.g., "minecraft:zombie", "minecraft:skeleton") 
+	    You can put also #minecraft:hostile, #minecraft:passive & #minecraft:neutral
+	*/
+	"blacklistedLivingEntities": [
+		"#minecraft:hostile",
+		"minecraft:ender_dragon"
+	],
+	/* Enable custom Tick Rate for Item Entities. 
+	   Default: true
+	*/
+	"changeTickRateItemEntities": true,
+	/* Enable custom Tick Rate for Block Entities. 
+	   Default: false
+	*/
+	"changeTickRateBlockEntities": false,
+	/* Enable custom Tick Rate for Nether Portal Blocks. 
+	   Default: true
+	*/
+	"changeTickRateNetherPortalBlock": true
+}

@@ -1,0 +1,44 @@
+{
+	/* Distance to detect nearby item entities. 
+	   Default: 3.0 blocks. 
+	   Min: 0.5 blocks, Max: 10 blocks. 
+	   If ServerCore is used, this is disabled.
+	*/
+	"distanceItemEntities": 3.0,
+	/* Maximum number of mobs that can spawn from spawners. 
+	   Default: 6 mobs.
+	*/
+	"maxSpawnerMobs": 6,
+	/* Range around a spawner where mobs can spawn. 
+	   Default: 4 blocks.
+	*/
+	"spawnerRange": 4,
+	/* Max capacity for monster spawn groups. 
+	   Default: 70.
+	*/
+	"monsterSpawnGroupCapacity": 70,
+	/* Max capacity for creature spawn groups. 
+	   Default: 10.
+	*/
+	"creatureSpawnGroupCapacity": 10,
+	/* Max capacity for ambient spawn groups. 
+	   Default: 15.
+	*/
+	"ambientSpawnGroupCapacity": 15,
+	/* Max capacity for water creature spawn groups (e.g., Axolotls). 
+	   Default: 5.
+	*/
+	"waterCreatureSpawnGroupCapacity": 5,
+	/* Max capacity for water ambient spawn groups. 
+	   Default: 20.
+	*/
+	"waterAmbientSpawnGroupCapacity": 20,
+	/* Tick time required for mob entities to despawn. 
+	   Default: 600.
+	*/
+	"mobDespawnTime": 600,
+	/* Chance for mob entities to despawn. 
+	   Default: 0.00125.
+	*/
+	"mobDespawnChance": 0.0012499999720603228
+}

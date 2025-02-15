@@ -1,0 +1,16 @@
+filename = 'sodiumextras-fabric-1.0.7-1.20.1.jar'
+name = 'Sodium/Embeddium Extras'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '415f6d815b673f6d719c55a7caaa44e03f62bf56'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6041696
+project-id = 558905

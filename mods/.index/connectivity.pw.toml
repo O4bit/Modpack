@@ -1,0 +1,16 @@
+filename = 'connectivity-fabric-1.20.1-6.9.jar'
+name = 'Connectivity Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f529e9f4a76904ce7a044ac46ba91b34acf57ca2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6190203
+project-id = 470193
