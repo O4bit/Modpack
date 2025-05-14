@@ -1,0 +1,16 @@
+filename = 'connectedglass-1.1.13-fabric-mc1.20.1.jar'
+name = 'Connected Glass'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11da3774bebb1353de46c61ee40d05c1f52f8bff506004844e1e653893d7332f4dc4ed4efab7a97617d730d3f1c3cb79aece2115dd0976214078dbb3e3a7358a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DghO0R02/versions/385UeovT/connectedglass-1.1.13-fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'DghO0R02'
+version = '385UeovT'

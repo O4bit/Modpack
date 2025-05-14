@@ -1,0 +1,16 @@
+filename = 'betterchunkloading-fabric-1.20.1-5.5.jar'
+name = 'Better chunk loading mod'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78bc02e57d7e81faa4ea7ca438afe2f6fc1e92ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6396752
+project-id = 899487

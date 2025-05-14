@@ -1,0 +1,4 @@
+#Indium properties file
+#Sat Mar 08 14:04:12 CET 2025
+always-tesselate-blocks=auto
+ambient-occlusion-mode=auto

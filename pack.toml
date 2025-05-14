@@ -1,13 +1,13 @@
-name = "Building Modpack"
+name = "Better Bulding"
 author = "O4bit"
-version = "4.0.0"
+version = "3.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "26d9bae72d1d6d37370c32763cbe15ca75d8c63559aa2ac94245965a92399452"
+hash = "b6fa08cb0c33ff47c7d5ac9056c7940a1fedb823cb495181be80bd5424d40408"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.14"
 minecraft = "1.20.1"

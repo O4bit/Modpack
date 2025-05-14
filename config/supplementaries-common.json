@@ -136,7 +136,11 @@
       "fire_power": 0.6,
       "fuse_time": 40,
       "cooldown": 60,
-      "cannonball": true,
+      "cannonball": {
+        "enabled": true,
+        "power_scaling": 3.5,
+        "break_radius": 1.1
+      },
       "music_disc_heave_ho": true
     },
     "present": {
@@ -249,6 +253,10 @@
       "enabled": true,
       "simple_mode": true
     },
+    "netherite_doors": {
+      "door": true,
+      "trapdoor": true
+    },
     "lapis_bricks": true,
     "deepslate_lamp": true,
     "end_stone_lamp": true,
@@ -260,8 +268,6 @@
     "sconce": true,
     "sconce_lever": true,
     "pancake": true,
-    "netherite_door": true,
-    "netherite_trapdoor": true,
     "checker_block": true,
     "raked_gravel": true,
     "feather_block": true,
@@ -356,6 +362,9 @@
     "red_merchant_spawn_multiplier": 1.0
   },
   "tweaks": {
+    "dragon_banner_pattern": {
+      "enabled": true
+    },
     "shulker_helmet": {
       "enabled": true
     },

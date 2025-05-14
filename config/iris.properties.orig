@@ -1,0 +1,8 @@
+#This file stores configuration options for Iris, such as the currently active shaderpack
+#Sat Mar 08 14:04:20 CET 2025
+colorSpace=SRGB
+disableUpdateMessage=true
+enableDebugOptions=false
+enableShaders=false
+maxShadowRenderDistance=0
+shaderPack=MakeUp-UltraFast-9.0a.zip

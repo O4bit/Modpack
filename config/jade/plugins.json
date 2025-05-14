@@ -51,6 +51,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -62,9 +66,8 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "extendedae": {
-    "jade_chamber": true,
-    "jade_wireless": true
+  "balm": {
+    "jade": true
   },
   "ae2": {
     "part_icon": true,

@@ -1,0 +1,16 @@
+filename = 'doubledoors-1.20.1-7.0.jar'
+name = 'Double Doors'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cc76d982e806c76d13d39e44b7ef1204cefa0a641c7747ceedeee5af34c8ef4e5adb9ad49f3880048dc934420a7cfe9e3e1f4b70ee75ed6ab020575c9a9a1785'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JrvR9OHr/versions/GX8u7Pre/doubledoors-1.20.1-7.0.jar'
+
+[update.modrinth]
+mod-id = 'JrvR9OHr'
+version = 'GX8u7Pre'
