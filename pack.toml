@@ -1,12 +1,12 @@
-name = "Better Bulding"
+name = "Better Building"
 author = "O4bit"
-version = "3.0.5"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b6fa08cb0c33ff47c7d5ac9056c7940a1fedb823cb495181be80bd5424d40408"
+hash = "1036234c2aeadce4d8c9d6001bebfa974be6684f5494d580462633db8c5dea95"
 
 [versions]
 fabric = "0.16.14"

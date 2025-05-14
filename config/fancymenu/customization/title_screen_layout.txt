@@ -73,7 +73,7 @@ element {
 
 element {
   interactable = true
-  source = Better Building 3.0.5 MIT
+  source = Better Building 5.0.0
   source_mode = direct
   shadow = true
   scale = 1.0
