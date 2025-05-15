@@ -1085,10 +1085,6 @@ file = "config/paxi/resourcepacks/UniqueDark 1.20.2-1.21.x (free).zip"
 hash = "4c3e7e836c23d3ff336579b9872f405ba7ac978a0d1667fb4c4fca1313d04336"
 
 [[files]]
-file = "config/paxi/resourcepacks/WEED EATER 128x (OLDpbr) 1.20.zip"
-hash = "e9046047b5136f8b1fbe7c64ab8ca9078b33cc3cbc4b99a049e28e670b888aee"
-
-[[files]]
 file = "config/paxi/resourcepacks/loadingbackgrounds-3.0.0.zip"
 hash = "eae048bf6751aa48521519ccb3194b3584a509784d2a7937a3baa25d19b4a3f7"
 
@@ -2047,7 +2043,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/backport-paintings-1.21.pw.toml"
-hash = "638aef74da429e2ccb84ef07fd0a26a4addb7ba88b2208786d0596d02e5cec33"
+hash = "8a6020f0b70523b4214f6880a6f78197f77e925204b27576f701b4290b2f1ce1"
 metafile = true
 
 [[files]]
