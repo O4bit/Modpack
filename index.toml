@@ -1085,10 +1085,6 @@ file = "config/paxi/resourcepacks/UniqueDark 1.20.2-1.21.x (free).zip"
 hash = "4c3e7e836c23d3ff336579b9872f405ba7ac978a0d1667fb4c4fca1313d04336"
 
 [[files]]
-file = "config/paxi/resourcepacks/loadingbackgrounds-3.0.0.zip"
-hash = "eae048bf6751aa48521519ccb3194b3584a509784d2a7937a3baa25d19b4a3f7"
-
-[[files]]
 file = "config/paxi/resourcepacks/xali's Bushy Leaves v3.5.0.zip"
 hash = "3e787ade31f08d66728e7dd7726a5e63a97ea28b078dc811245143379d090a0c"
 
