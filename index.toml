@@ -1077,6 +1077,10 @@ file = "config/paxi/resourcepacks/UniqueDark 1.20.2-1.21.x (free).zip"
 hash = "4c3e7e836c23d3ff336579b9872f405ba7ac978a0d1667fb4c4fca1313d04336"
 
 [[files]]
+file = "config/paxi/resourcepacks/thegarden.zip"
+hash = "1e5989ff552c771badd06d081042117623bb40ff26ef19c981c365306bd80cea"
+
+[[files]]
 file = "config/paxi/resourcepacks/xali's Bushy Leaves v3.5.0.zip"
 hash = "3e787ade31f08d66728e7dd7726a5e63a97ea28b078dc811245143379d090a0c"
 
@@ -1091,10 +1095,6 @@ hash = "b68e1fb2cfcfd4568000e8897053cf8b9029df907a7b13112db97ae81de86a27"
 [[files]]
 file = "config/paxi/resourcepacks/xali's enchanted book v1.0.0.zip"
 hash = "48d8ce7cb630bae276ac99a890426eb6191b53565931c0790a1093455aad29e3"
-
-[[files]]
-file = "config/paxi/resourcepacks/§7Pale_Garden§f_§1midnight§f_§bclear§f.zip"
-hash = "1e5989ff552c771badd06d081042117623bb40ff26ef19c981c365306bd80cea"
 
 [[files]]
 file = "config/paxi/resourcepacks/§cAVPBR Retextured R3.zip"
