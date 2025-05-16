@@ -1057,6 +1057,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/AVPBRRetexturedR3.zip"
+hash = "f7e456bc17a803cc12bd833b280a6586d91937d68e6f3a8dbf0742d152f94aa4"
+
+[[files]]
 file = "config/paxi/resourcepacks/Better_Animations.zip"
 hash = "d4feb9e17f864b62e219c74ea23f53897daeb3ebac7ea3924b92f2d263383e25"
 
@@ -1095,10 +1099,6 @@ hash = "b68e1fb2cfcfd4568000e8897053cf8b9029df907a7b13112db97ae81de86a27"
 [[files]]
 file = "config/paxi/resourcepacks/xali's enchanted book v1.0.0.zip"
 hash = "48d8ce7cb630bae276ac99a890426eb6191b53565931c0790a1093455aad29e3"
-
-[[files]]
-file = "config/paxi/resourcepacks/§cAVPBR Retextured R3.zip"
-hash = "f7e456bc17a803cc12bd833b280a6586d91937d68e6f3a8dbf0742d152f94aa4"
 
 [[files]]
 file = "config/puzzle.json"
