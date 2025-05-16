@@ -3645,10 +3645,6 @@ file = "mods/lithium-fabric-mc1.20.1-0.11.3.jar"
 hash = "3ba94ad91e86e80985cd3df43de1c5c8cf0808a998c260e21a8eb10468d6a5be"
 
 [[files]]
-file = "mods/loadingbackgrounds-fabric-1.20.2-1.8.0.jar"
-hash = "29bdbb3dfa6bd8674d4225b133d0fc8c6b6447b95511a40d92778f4785cdfde4"
-
-[[files]]
 file = "mods/lunade-fastanim-1.6-1.20.jar"
 hash = "c6af4d11f52a66bfa4f35e87fe6aa7132f74ff1f2dea3a3dd668a0d60e99017c"
 
