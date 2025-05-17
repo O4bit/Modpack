@@ -1485,7 +1485,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/backport-paintings-1.21.pw.toml"
-hash = "638aef74da429e2ccb84ef07fd0a26a4addb7ba88b2208786d0596d02e5cec33"
+hash = "8a6020f0b70523b4214f6880a6f78197f77e925204b27576f701b4290b2f1ce1"
 metafile = true
 
 [[files]]
