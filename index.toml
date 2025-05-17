@@ -729,10 +729,6 @@ file = "config/sodiumextras-client.toml"
 hash = "e34af4e14f2120d12731e6277f185e4c88beac29e74223e6f4a8801aabbd3ac6"
 
 [[files]]
-file = "config/structureessentials.json"
-hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
-
-[[files]]
 file = "config/supplementaries-client.json"
 hash = "dd5c698e48f4deb8e38289ba67eadb4fcfb6e23a033e9f802d3e048a949c45f8"
 
