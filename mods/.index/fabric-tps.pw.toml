@@ -1,0 +1,16 @@
+filename = 'fabric_tps-1.20.1-1.4.0.jar'
+name = 'Fabric TPS'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '478e9476ce476ccee550d730ea83a185174c93e9f5d7d4f4337868dd1c4eb318759c79fca70b9858b2cc0533bdea8471c602b8bd379f037e78213122075eeed2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X30askCw/versions/v16SCviV/fabric_tps-1.20.1-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'X30askCw'
+version = 'v16SCviV'

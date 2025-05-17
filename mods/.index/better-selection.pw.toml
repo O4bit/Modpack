@@ -1,0 +1,16 @@
+filename = 'better-selection-1.2.jar'
+name = 'Better Selection'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7cb02f81045a9b04950c044b12f06ee27c175ac6c22cc8e8dea29e80d5cbf509c47a939e76c99f2fdfb394b35c8c413d7d6ffeae227b3842292f61e5078b9555'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xIpcAYJL/versions/uWIwswds/better-selection-1.2.jar'
+
+[update.modrinth]
+mod-id = 'xIpcAYJL'
+version = 'uWIwswds'

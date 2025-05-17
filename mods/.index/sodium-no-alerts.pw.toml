@@ -1,0 +1,16 @@
+filename = 'sodium-no-alerts-2.0.0+mc1.20.1.jar'
+name = 'Sodium No Alerts'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b8c057a2da29aebdcc0c83dd745123c84e61b91fb0be7e437c8d2670b5177b4ac9f5116454e63a0ee3ec42e8fead1cec11b6a71cca11818a04c9529e4c4cbbf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k8meonyE/versions/lEDtOSMp/sodium-no-alerts-2.0.0%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'k8meonyE'
+version = 'lEDtOSMp'

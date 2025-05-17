@@ -79,7 +79,7 @@
   },
   "general": {
     "no_optifine_warn_screen": false,
-    "no_amendments_screen": false,
+    "no_amendments_screen": true,
     "no_incompatible_mods_screen": false,
     "config_button": false,
     "config_button_y_offset": 0,

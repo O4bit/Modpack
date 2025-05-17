@@ -1,0 +1,16 @@
+filename = 'solstice-1.8.1+1.20.1.jar'
+name = 'Solstice Essentials'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f47d7dd726d207883f9030e3719a0f1327010174ed8792bcbf50bd8c7acb8f0ec9c0c1acaa4ca55c6fb58e57691aa95a144a1ca7ee1ff22a518eaed4fc13103e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uIvrDZas/versions/fmCpQgOo/solstice-1.8.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'uIvrDZas'
+version = 'fmCpQgOo'
