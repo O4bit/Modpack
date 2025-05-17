@@ -2210,7 +2210,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/shut-up-gl-error.pw.toml"
-hash = "8d66b283cc443624070957f3223812de3731f1cc2f22ccc2aed85aa3367115c4"
+hash = "4ae1bf5a07a27e83d0d7322af250a5921962060c0f032f1a11219acd1af74937"
 metafile = true
 
 [[files]]
