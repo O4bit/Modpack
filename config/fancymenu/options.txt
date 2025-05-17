@@ -26,9 +26,9 @@ B:game_intro_fade_out = 'true';
 
 B:show_custom_window_icon = 'false';
 S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
-S:custom_window_title = '';
-S:custom_window_icon_16 = '';
+S:custom_window_icon_32 = '/config/fancymenu/assets/logo32.png';
+S:custom_window_title = 'Better Building [FABRIC 1.20.1]';
+S:custom_window_icon_16 = '/config/fancymenu/assets/logo16.png';
 
 
 ##[multiplayer_screen]

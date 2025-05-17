@@ -262,8 +262,20 @@ file = "config/fancymenu/assets/better_building.png"
 hash = "73b5d61f8e9654cb9610c571f1476e093e90770b206e2cf843e59a1974e49735"
 
 [[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "1a9c99b27d2728bba0dbcb7ff416f49e22d91e6e772ff65e4d0e161b70db53da"
+
+[[files]]
+file = "config/fancymenu/assets/logo16.png"
+hash = "ded01b3333884c24245a5ab1e4446e4f8cc01c4a29d0612acbe825bd76c15654"
+
+[[files]]
+file = "config/fancymenu/assets/logo32.png"
+hash = "d4d07d6e16815de7c0420d73580dc9f72546b88cf2e3e7440b974d2b28a5fe57"
+
+[[files]]
 file = "config/fancymenu/assets/model.png"
-hash = "d7c02e4d05317654fff5067147f4067a1cee55ec9e60c8dcfe9bef201407e840"
+hash = "fb99792bfc165cb506a49ac2ff1b05d9dd350a108fd27aa8d455cc0c9429c247"
 
 [[files]]
 file = "config/fancymenu/assets/output-onlinepngtools.png"
@@ -287,7 +299,7 @@ hash = "35e5f7ccf58b986fea39db0ab017dd8546167e50e2f7a74cf4fdcab2b2b5980c"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "6ce05de15c84e30e2c17a8e5989b40d84ff296a16ad63bad166ff70c67712d41"
+hash = "93af42a6aab04e654149b5f5275f4d5c97edfa7880cc480c3a80fc7d16c380af"
 
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
@@ -295,7 +307,7 @@ hash = "0d36b14990ae19f6015bcb20e0a4727cdce96f56bfb2c73144b2c458d658aa79"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "6a22a0fb98265f0548fd626df6735ab7a6e4376e63370e4d39c9b3f001c5d0ab"
+hash = "e38cc0f71076f7b945f278e919bcdd7d6f1de95ea2eec250eca278e6ce7a97b8"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.orig"
@@ -315,7 +327,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "56116ef801ba6e998589ea413d87527bc74bbb7c68bb3f0e99ae30ae09ee36b4"
+hash = "7ebfe825d35fb81faf839c8dcb5c49e1538a6e62b201a937824c81dc7b925569"
 
 [[files]]
 file = "config/fancymenu/panoramas/background/panorama/panorama_0.png"
