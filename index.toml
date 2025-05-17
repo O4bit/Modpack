@@ -1679,10 +1679,6 @@ file = "mods/trinkets-3.7.2.jar"
 hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 
 [[files]]
-file = "mods/tweakeroo-fabric-1.20.1-0.17.1.jar"
-hash = "8bf7b47ca0918517180bd4c016616e9cf145912670e9d6af55b6394b4ffbbce4"
-
-[[files]]
 file = "mods/twigs-3.1.0-fabric.jar"
 hash = "25ab7e6eff163c799d30dfa27f9c54c3d0828dff8f5af099e69966c48783f33a"
 
