@@ -118,10 +118,6 @@ file = "config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "eff0517be99d19d68a35fbcdf8baece2ad9e8754e8b721bb5d0b396934ea8cda"
-
-[[files]]
 file = "config/capes.json5"
 hash = "9d6e5e0742394e1835a51166a0b5d56b52fceeef2ad79be0312b57fd71cf3f17"
 
@@ -1201,10 +1197,6 @@ hash = "0312a7bd183ac12b53dc5a8daf61cd1f9e2fca76c11594a4dc859b045e11ed59"
 [[files]]
 file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
 hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
-
-[[files]]
-file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
-hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
 
 [[files]]
 file = "mods/capes-1.5.2+1.20-fabric.jar"
