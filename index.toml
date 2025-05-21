@@ -1091,6 +1091,10 @@ file = "mods/Resourcify (1.20.1-fabric)-1.7.1.jar"
 hash = "e9336c78351c27977bed8aab212fdbefeea2da09a1db5355b6a09772fd779e1d"
 
 [[files]]
+file = "mods/Saros-Essentials-Mod-1.20.1-Fabric-v0.3.jar"
+hash = "a3614eab9531df47ee024207f0eae2a1b85dbd9b6294ee74a4811c8b1350b254"
+
+[[files]]
 file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
 hash = "d377ecc4e4217705d162164ea8834f71f8f91881016edb941f6d455f77adde09"
 
@@ -1633,10 +1637,6 @@ hash = "2e34c4ecac29d2ae363d433b5104aae986161e887252e145fa84a27d04761612"
 [[files]]
 file = "mods/sodiumoptionsmodcompat-fabric-1.0.0-1.20.1.jar"
 hash = "8f1be99b53c98eb573f8230a67816882bd397bbea0d4613174607044c1f0b4dc"
-
-[[files]]
-file = "mods/solstice-1.8.1+1.20.1.jar"
-hash = "f6b935df121ae5859af3e15df45de3edcadd9b2f76ae9d43a3ecdac62508ea19"
 
 [[files]]
 file = "mods/spark-1.10.53-fabric.jar"
