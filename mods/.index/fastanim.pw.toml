@@ -1,0 +1,28 @@
+filename = 'lunade-fastanim-1.6-1.20.jar'
+name = 'FastAnim'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20 Pre-Release 1',
+    '1.20 Pre-Release 2',
+    '1.20 Pre-Release 3',
+    '1.20 Pre-Release 4',
+    '1.20 Pre-Release 5',
+    '1.20 Pre-Release 6',
+    '1.20 Pre-Release 7',
+    '1.20 rc1',
+    '1.20.1',
+    '1.20.1 rc1'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e4dca503f0952e18c07175d2281c8f2a2d8227939457646a8de0ce1ac72cf83861667f45e91c703629e1a9594c28ccc93cd3a74641ecf885fbcce5d10e13338'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yHf7SALy/versions/5lHXCowj/lunade-fastanim-1.6-1.20.jar'
+
+[update.modrinth]
+mod-id = 'yHf7SALy'
+version = '5lHXCowj'

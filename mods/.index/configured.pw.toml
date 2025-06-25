@@ -1,0 +1,16 @@
+filename = 'configured-fabric-1.20.1-2.2.3.jar'
+name = 'Configured'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c85adcba2f4cd0252dc8698d00a24b1e283d2cb8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5180902
+project-id = 457570

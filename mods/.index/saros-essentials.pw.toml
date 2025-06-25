@@ -1,0 +1,16 @@
+filename = 'Saros-Essentials-Mod-1.20.1-Fabric-v0.3.jar'
+name = 'Saro´s Essentials'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94833b66a8b26fb2a9cf6d59fb32cd174e4fcd2630a3503e0714f13682229a29fdab132e28eb05449bdd82f92f2b5e3cc1749e6307bc4c888cbb1887868aa99e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yzEAtpJN/versions/W1WtIx3B/Saros-Essentials-Mod-1.20.1-Fabric-v0.3.jar'
+
+[update.modrinth]
+mod-id = 'yzEAtpJN'
+version = 'W1WtIx3B'

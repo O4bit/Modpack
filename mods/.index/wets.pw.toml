@@ -1,0 +1,16 @@
+filename = 'WETS-0.0.4-fabric.jar'
+name = 'WETS (WorldEdit Tick Spreader)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2587aeb717741dd9cdd803f7f2be8bfe30653064c5f319c3c7e9e5001414099549c8ad254a3e5a70243503c3c9b93e21289925ec306a4fda13536b685e8ed26d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S0GwusT4/versions/MLaVuKwE/WETS-0.0.4-fabric.jar'
+
+[update.modrinth]
+mod-id = 'S0GwusT4'
+version = 'MLaVuKwE'

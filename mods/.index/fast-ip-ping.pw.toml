@@ -1,0 +1,16 @@
+filename = 'fast-ip-ping-v1.0.7-mc1.20.4-fabric.jar'
+name = 'Fast IP Ping'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3efcd4ed3acf64cbc11bc58fdd97dd6a4ca766d4c42ddede83af5e1cdb47ac587b5ec6b411f721815a69e83965472ec480a52a25191f615d20b6f07d7e17327f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9mtu0sUO/versions/vUzelzwj/fast-ip-ping-v1.0.7-mc1.20.4-fabric.jar'
+
+[update.modrinth]
+mod-id = '9mtu0sUO'
+version = 'vUzelzwj'
