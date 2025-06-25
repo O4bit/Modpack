@@ -298,7 +298,7 @@ hash = "0d36b14990ae19f6015bcb20e0a4727cdce96f56bfb2c73144b2c458d658aa79"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "e38cc0f71076f7b945f278e919bcdd7d6f1de95ea2eec250eca278e6ce7a97b8"
+hash = "0e6406ff051a859c1b9b1ec1fe21934283ca6e863250665d9b54927af3b22e89"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.orig"
@@ -1065,6 +1065,10 @@ file = "mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
 hash = "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
 
 [[files]]
+file = "mods/Palladium-1.20-1.20.2-1.1.4.jar"
+hash = "7f1f0c762a58d84c670effd5bc181053e5fe02364a5ffd8b38387b2ca1a08d7a"
+
+[[files]]
 file = "mods/Paxi-1.20-Fabric-4.0.jar"
 hash = "a2c446a94680897642c669ce6a01dba0f0eee0388160d5c807bda46342dda211"
 
@@ -1107,10 +1111,6 @@ hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
 [[files]]
 file = "mods/ToadLib-1.20-1.20.1-1.2.4.jar"
 hash = "470596b9057f2656eaac11218d4432c05ac451a7d836eaa6ba2a53dc51dca31d"
-
-[[files]]
-file = "mods/WETS-0.0.4-fabric.jar"
-hash = "b7c24668033d65c8dce3ccf7924b2bc62cd6c88350f583161ce6813f3c89f8e0"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.39.9_Fabric_1.20.jar"
@@ -1269,11 +1269,11 @@ file = "mods/cupboard-fabric-1.20.1-2.7.jar"
 hash = "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5"
 
 [[files]]
-file = "mods/dashloader-5.0.0-beta.2+1.20.0.jar.disabled"
+file = "mods/dashloader-5.0.0-beta.2+1.20.0.jar"
 hash = "ab8aec7bc8d9139eb6c8ca3fa89f83e25833c2cc62485c91f5cb322d57d32e13"
 
 [[files]]
-file = "mods/dashloader-portinglib-compat-0.1+1.20.1.jar.disabled"
+file = "mods/dashloader-portinglib-compat-0.1+1.20.1.jar"
 hash = "3e74c9c9d43903a7031fc3ace4be8553502395efbfd1be285df8c9abb1190863"
 
 [[files]]
@@ -1287,10 +1287,6 @@ hash = "c3b9ea2f3b74234095006815f49adfc3c1886941430dd727a78560ab891bb66f"
 [[files]]
 file = "mods/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar"
 hash = "394d7f7d411c84e0f46e45393ec6ca8becd5703ef52c3c6871c7510589eb0c4f"
-
-[[files]]
-file = "mods/embeddium-fabric-0.3.25+mc1.20.1.jar"
-hash = "d3206b83d14491aac9a361d99afc9a0fafed080f44994c1642e2544855c6fee7"
 
 [[files]]
 file = "mods/emi-1.1.22+1.20.1+fabric.jar"
@@ -1323,10 +1319,6 @@ hash = "fd1d0b3c7d8279136f9e8abb48a960f6412901cc6fc2f096f3b20306cf4462bd"
 [[files]]
 file = "mods/fabric-api-0.92.6+1.20.1.jar"
 hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
-
-[[files]]
-file = "mods/fabric-carpet-1.20-1.4.112+v230608.jar"
-hash = "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar"
@@ -1411,6 +1403,10 @@ hash = "6722479c040a0c071f8b4be4246586f9f26f58d7f07fe2ff005afebabbd9abd1"
 [[files]]
 file = "mods/gpumemleakfix-fabric-1.20.1-1.8.jar"
 hash = "7f84fd5752533f2ccc2ad62a746b7e5e18baf2f7e7f141e1281dae94e1a9a8f8"
+
+[[files]]
+file = "mods/indium-1.0.36+mc1.20.1.jar"
+hash = "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999"
 
 [[files]]
 file = "mods/interference-1.7.0.jar"
@@ -1545,6 +1541,10 @@ file = "mods/recipeessentials-fabric-1.20.1-4.1.jar"
 hash = "2ef2204d3b3a6e0115da2432fd840ed3d64b38ef0901ed0e4d638e62768b5714"
 
 [[files]]
+file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
+
+[[files]]
 file = "mods/resourcefulconfig-fabric-1.20.1-2.1.3.jar"
 hash = "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a"
 
@@ -1575,6 +1575,14 @@ hash = "fa2ed8e060c9e451d89ecc31bc8e074ddc47f2aeb3f65051974d4743008510c4"
 [[files]]
 file = "mods/smoothscroll-2.2.3.1+1.20.1.jar"
 hash = "ec0c6156f20df2d2e8b74564505bbab997bd5f932ba5d032780eb1a318420e35"
+
+[[files]]
+file = "mods/sodium-extra-0.5.9+mc1.20.1.jar"
+hash = "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f"
+
+[[files]]
+file = "mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+hash = "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22"
 
 [[files]]
 file = "mods/sodiumextras-fabric-1.0.7-1.20.1.jar"

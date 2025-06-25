@@ -73,7 +73,7 @@ element {
 
 element {
   interactable = true
-  source = Better Building 6.0.4 under GNU v3
+  source = Better Building 6.0.6 under GNU v3
   source_mode = direct
   shadow = true
   scale = 1.0
