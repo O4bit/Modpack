@@ -1222,11 +1222,6 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "535ac3f1345c2955213d29f1fa797f2057f7f986cb9c6bbff80d657fee73128b"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
