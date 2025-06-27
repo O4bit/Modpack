@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/JNRr4jji/versions/S2ztUI4n/Palladium-1.20-1.20.2-1.1.4.jar"
 hash-format = "sha512"
-hash = "739742a84587d50157de171e872ec8c175a8424eb78649f6faece7e3a9d07975d5a69c4a331839f1a2d1b21867820d370c63cf4d382af4e81545edcb0b3352b7"
+hash = "8b556549c0691dca82a43ad743d28735c62b57282fcbdc4548c2eeb1b9326eb128009296e4c14c58e75367397d8d013a92b12f87c09f103a2ac4e14a771fcf7b"
 
 [update]
 [update.modrinth]

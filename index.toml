@@ -937,10 +937,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "094342010e41e5d0092d28a60b91a76a1a4dd76ef659f3a72288ff4850f7727c"
 
 [[files]]
-file = "install_mods_Version3.bat"
-hash = "eae1d8652c78cf30a22ce5a693fb259d93cc0e73533075e693ae8ab17f8e5916"
-
-[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
 metafile = true
@@ -1567,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "ef6d07f01bf77289512fd2f1d71ebc75346d86da43766efa02dc67e411004639"
+hash = "052cdad13a222633c12b946122a348cce3832a9850b3fac526df7cdb32cdbf71"
 metafile = true
 
 [[files]]
