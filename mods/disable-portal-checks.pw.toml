@@ -1,0 +1,13 @@
+name = "Disable Portal Checks"
+filename = "disableportalchecks-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOzKOGGt/versions/zW17oIr0/disableportalchecks-1.0.0.jar"
+hash-format = "sha512"
+hash = "ee92ad1d229081643bace5a043b9b33111daeb92bb06642e0c2a680a436961102a58f1606a82b2910461a4711c56bf7753abc1737c986a868899387d5357249e"
+
+[update]
+[update.modrinth]
+mod-id = "uOzKOGGt"
+version = "zW17oIr0"

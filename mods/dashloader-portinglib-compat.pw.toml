@@ -1,0 +1,13 @@
+name = "dashloader-portinglib-compat"
+filename = "dashloader-portinglib-compat-0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/adztbDaq/versions/5hRSIiAY/dashloader-portinglib-compat-0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "c84ca3924bdbf01b16972ce8a699dcd9ed19adc58f2b9428d5c7d4a807e14aa49d0a8cab1874ea66bb447416f2b031e4bdc89aa6378fd0192b8ef420d175b838"
+
+[update]
+[update.modrinth]
+mod-id = "adztbDaq"
+version = "5hRSIiAY"

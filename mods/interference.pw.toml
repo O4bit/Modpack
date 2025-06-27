@@ -1,0 +1,13 @@
+name = "Interference API"
+filename = "interference-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fTxv4H4p/versions/AW5i5veW/interference-1.7.0.jar"
+hash-format = "sha512"
+hash = "368239813a49eb359716f2ff6cb5c90d3f62ad81c01c30afecacb810b7576fd76d8af84877277d632380aada17abb10019fb127dd91abc11b604b624518e113b"
+
+[update]
+[update.modrinth]
+mod-id = "fTxv4H4p"
+version = "AW5i5veW"
