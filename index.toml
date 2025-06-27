@@ -937,6 +937,10 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "094342010e41e5d0092d28a60b91a76a1a4dd76ef659f3a72288ff4850f7727c"
 
 [[files]]
+file = "install_mods_Version3.bat"
+hash = "eae1d8652c78cf30a22ce5a693fb259d93cc0e73533075e693ae8ab17f8e5916"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
 metafile = true
@@ -973,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-mod.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -1012,8 +1016,18 @@ hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "5375097e592b9a316d493588bb183458a04cc8085641019e53c1403b196f0da5"
+metafile = true
+
+[[files]]
 file = "mods/better-fabric-console.pw.toml"
 hash = "aed440afc32d47c984b3829033d384db636afcafa5e4097ee1e5ece10e766a94"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "ada6b2bc0ff26a30c97b717079ed8c19c83df8ee0021ec7bb2b217fb5bcfb7fc"
 metafile = true
 
 [[files]]
@@ -1077,6 +1091,11 @@ hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
@@ -1109,6 +1128,16 @@ metafile = true
 [[files]]
 file = "mods/common-network.pw.toml"
 hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "3771ae493844608b70847d7489a43f91077f6db20e46f89437e2d5c286d4e021"
 metafile = true
 
 [[files]]
@@ -1154,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
@@ -1222,6 +1256,11 @@ hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "addac47eb8f5cc06cb283831f2f79deec1568a769c65e476401fc7092aa74a94"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "050df5066bebb86b4fa1846608161b3f2c8bd091a3569d7ef0e1c4fb4397549b"
 metafile = true
@@ -1272,6 +1311,16 @@ hash = "8e66b7aa4f1bb572f33ef2bfaa27868c2c300c56941093c3f0b58b673c459188"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "50482d5a72bfa5d43b47e7e413303bf84dee9b1d5e04454e82e9b1e9a7465054"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "539d6886ae4cf9859ddea56dc447939efc6a54d60a4fa4c63143116f605bfa5c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "29d41095d30271247f296402d3e50d8ce060acf77808efcbe25de0ec84e76975"
 metafile = true
@@ -1317,8 +1366,23 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c344531240115caf4389148fd9ebe51731aa329cec5e9794a046e7050dae01ea"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "42b0e94254b3fa4eaf4cfe24d67223acfd0c93868f1e9df19d1f8c172b8dbda4"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "486365308053b52809d840574fcf011125a146c2ab51ff8efb0f72c8cc1a759e"
 metafile = true
 
 [[files]]
@@ -1349,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
@@ -1497,6 +1566,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "ef6d07f01bf77289512fd2f1d71ebc75346d86da43766efa02dc67e411004639"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "3293f00553c34eb166be92eabe786b4f67a2aacbabd07b32b4c7746e654c34e0"
 metafile = true
@@ -1567,6 +1641,16 @@ hash = "c08dcea37c03dcb5cfad9d3d14f5e885995cf9bb74975244781e1354c937afa7"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "efcd3236fecc9e8041dea52989056588084521dafa8fb5cb1e47e4fdd69117e9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
@@ -1584,6 +1668,11 @@ metafile = true
 [[files]]
 file = "mods/saros-essentials.pw.toml"
 hash = "ea41aafb8584f9e95bb125795c36d2f631143ce3cd13f1a12dcc6ab8a8387a77"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -1617,6 +1706,11 @@ hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extras.pw.toml"
 hash = "4a00b722b443dd9a833c1941d0cb3457745c6b7d35df9ac4d2c0987d856b8f0c"
 metafile = true
@@ -1642,6 +1736,11 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "eb635bf28030ba71f045c7e096a94f6f6f1781bb5f9d781e78a182266ea29fec"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
@@ -1659,6 +1758,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
@@ -1714,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit-hang-fix.pw.toml"
 hash = "bd2c42e601ef8d0c42b01105526ba10dde552c649c0a47f0102eb6434ef29da8"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
