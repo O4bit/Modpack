@@ -1042,11 +1042,6 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
@@ -1109,6 +1104,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "3dd5b0e8ffa23ab45130e40692723ad8dca91a99a114cf95d87bc5be1ab977cb"
 metafile = true
 
 [[files]]
@@ -1819,11 +1819,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
-metafile = true
-
-[[files]]
-file = "mods/stacc-api.pw.toml"
-hash = "a2509332e88359cb8c1379c881d213f60f98dd7fa67e0e62558ff1ab37d938bb"
 metafile = true
 
 [[files]]
