@@ -1042,6 +1042,11 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
@@ -1602,6 +1607,11 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
+file = "mods/mo-colors.pw.toml"
+hash = "87f0aec1ba7c89a0363ff0b996d84463866ed61d8a08c2a3d5de1dd1c0d63ce8"
+metafile = true
+
+[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
 metafile = true
@@ -1907,6 +1917,11 @@ hash = "61df89782c77288b8eb78f921693b828a560dabcdc424ec70490653ef9efd524"
 metafile = true
 
 [[files]]
+file = "mods/wood-you-dye-companion.pw.toml"
+hash = "53c0544598b1606a5fc964c75d4d412e0a4dec1304b99b2737369b3891c54ea1"
+metafile = true
+
+[[files]]
 file = "mods/worldedit-hang-fix.pw.toml"
 hash = "bd2c42e601ef8d0c42b01105526ba10dde552c649c0a47f0102eb6434ef29da8"
 metafile = true
@@ -1914,6 +1929,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/wyd.pw.toml"
+hash = "37be40067ae5aff7bdd8d68abb7a7a9e71fed64f97e34bace7b57d6c752523aa"
 metafile = true
 
 [[files]]
