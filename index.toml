@@ -298,7 +298,7 @@ hash = "0d36b14990ae19f6015bcb20e0a4727cdce96f56bfb2c73144b2c458d658aa79"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "0e6406ff051a859c1b9b1ec1fe21934283ca6e863250665d9b54927af3b22e89"
+hash = "47bd30cd0cba1ea577b483c26ee2c0b5166fe58918bc7e0b204238a7fc2fe30b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.orig"
@@ -1819,6 +1819,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/stacc-api.pw.toml"
+hash = "a2509332e88359cb8c1379c881d213f60f98dd7fa67e0e62558ff1ab37d938bb"
 metafile = true
 
 [[files]]

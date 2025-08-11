@@ -1,0 +1,13 @@
+name = "stacc-api"
+filename = "stacc-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fauLGdJR/versions/kI6KyeqZ/stacc-1.7.0.jar"
+hash-format = "sha512"
+hash = "3a720c78ebff56e19b54971a14754ff6e74effff7a6127ab0e8dad46fda60eeb545e70a14f94a3db3beef9d6f0fdd4da46f9b026f117573831ff3cb28bfda0b5"
+
+[update]
+[update.modrinth]
+mod-id = "fauLGdJR"
+version = "kI6KyeqZ"
