@@ -1197,11 +1197,6 @@ hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -1269,11 +1264,6 @@ metafile = true
 [[files]]
 file = "mods/disable-portal-checks.pw.toml"
 hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
-metafile = true
-
-[[files]]
-file = "mods/disc-backport.pw.toml"
-hash = "786b4aefa4a3576f994a5a230cd753370a5a03ecbfa64a56467e3ccfcd2d54b0"
 metafile = true
 
 [[files]]
@@ -1964,11 +1954,6 @@ metafile = true
 [[files]]
 file = "mods/zacks-model-projects.pw.toml"
 hash = "01fe659424b262dd965b51700488bf9205064032e1f21f7de6b029cad6830f49"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
 metafile = true
 
 [[files]]
