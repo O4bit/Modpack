@@ -1,0 +1,13 @@
+name = "Disc Backport"
+filename = "disc_backport_rebelspark-1.21.7-discs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2102bc6a62c93d5bea8d87a1584eb42964d3155"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6753962
+project-id = 1225218

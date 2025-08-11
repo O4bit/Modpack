@@ -1,13 +1,16 @@
 name = "Better Building"
 author = "O4bit"
-version = "6.0.6"
+version = "7.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84ad80d9c309b03acea08cd457b54176db8f4371f18efdc106136071e09ff9ce"
+hash = "e5e3fd2fdb2f8f12645d5b3472d654e8ab9c753d118fed9fcb76d304efed6e78"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]

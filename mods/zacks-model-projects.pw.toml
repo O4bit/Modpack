@@ -1,0 +1,13 @@
+name = "Zack's Model Projects"
+filename = "ZMP 3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3aa93b451e556adde5b80338475ae1a6b2b4eade"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6532428
+project-id = 511011

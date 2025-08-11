@@ -1,0 +1,13 @@
+name = "GEP - General Essentials Pack [FVTM]"
+filename = "GEP 3.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eded0b5ff5fda6c5fd494843aab618ec7b247c88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6523939
+project-id = 301405

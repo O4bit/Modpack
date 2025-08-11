@@ -1,0 +1,13 @@
+name = "FVP - Fexcraft Vehicle Pack [FVTM]"
+filename = "FVP 3.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d328c7e19ff27ec5d86884d3c2fd92c9aa687b40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6829906
+project-id = 302178

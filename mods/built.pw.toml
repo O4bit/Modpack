@@ -1,0 +1,13 @@
+name = "Built"
+filename = "Built-fabric-1.20.1-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZwdoLer/versions/ONN2RViA/Built-fabric-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "fb708853c136151dcc6be3f589aca1333e56fe7251adfc302bfa2937656b33c970a267f0c34bc0d2f84411083cd57e0f7d1c524f97731005395d87ffca3b8ca0"
+
+[update]
+[update.modrinth]
+mod-id = "VZwdoLer"
+version = "ONN2RViA"
