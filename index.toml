@@ -1612,11 +1612,6 @@ hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
 
 [[files]]
-file = "mods/modern-lights.pw.toml"
-hash = "d4bf06b71117f3bb5647445eb4c805b4dbbc9d9917bf3daa196809f6a6611d77"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
 metafile = true
