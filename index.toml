@@ -470,7 +470,7 @@ hash = "d4ecc66eebcdb99093b01364c3dd771f3a722ca5b778d1c408a3ef38e4779d2a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
-hash = "f8f037ac96e3a3468fb7c7e68a6acb415d7a56485cc822661a44fc32104d1972"
+hash = "13260445ddb593228d66ac40ec82ad4804643965493589b83370fccd3062a83a"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
