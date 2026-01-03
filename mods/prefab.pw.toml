@@ -1,0 +1,13 @@
+name = "Prefab"
+filename = "prefab-neoforge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTJ1ZloG/versions/ssmd7Qaa/prefab-neoforge-1.0.4.jar"
+hash-format = "sha512"
+hash = "3bca432acb276ca32758fa929e87fbf40afb6b42665c25a9a85e2bf070091752979ae0b96a5521fe6e235469c9b6047a5316e0b2c45f0af6646ac2d2df2bf3b6"
+
+[update]
+[update.modrinth]
+mod-id = "pTJ1ZloG"
+version = "ssmd7Qaa"

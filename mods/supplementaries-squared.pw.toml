@@ -1,13 +1,13 @@
 name = "Supplementaries Squared"
-filename = "suppsquared-1.20-1.1.21-fabric.jar"
+filename = "suppsquared-1.21-1.2.17-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/JoWoFPOO/suppsquared-1.20-1.1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/6LgMCeqW/suppsquared-1.21-1.2.17-neoforge.jar"
 hash-format = "sha512"
-hash = "a2ceff2143938d96e2b524d67fd75ba0405baf27db3c1273024352c5f994fd6c3fa61b0f056c513c46fe82d7cd6caea2f911602371982aea78eb6e171c1ef012"
+hash = "19b9fdb01b79784d67efcfc349dd1eac0c2862f0c2177cf2513be99c18b3ddf00756b4880273c3785954ab48d686cbbce4b003dad6ec61da78cc5b6424859047"
 
 [update]
 [update.modrinth]
 mod-id = "dCCkNFwE"
-version = "JoWoFPOO"
+version = "6LgMCeqW"

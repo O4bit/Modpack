@@ -1,0 +1,41 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.moulberry.axiom.screen.AxiomIntroductionScreen": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "com.prefab.structures.gui.GuiHouse": true,
+    "dev.emi.emi.screen.ConfigScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.editor.LayoutEditorScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen": true,
+    "me.chrr.camerapture.gui.PictureScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
+    "io.wispforest.accessories.client.gui.ScreenVariantSelectionScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true,
+    "earth.terrarium.tempad.client.screen.tempad.TeleportScreen": true,
+    "earth.terrarium.tempad.client.screen.tempad.NewLocationScreen": true,
+    "xerca.xercapaint.client.GuiCanvasEdit": true,
+    "xerca.xercapaint.client.GuiCanvasView": true,
+    "blusunrize.immersiveengineering.client.gui.GunTurretScreen": true,
+    "blusunrize.immersiveengineering.client.gui.ChemTurretScreen": true,
+    "com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "com.yuushya.modelling.gui.showblock.ShowBlockScreen": true,
+    "me.chrr.camerapture.gui.PictureFrameScreen": true
+  },
+  "hideBackground": {
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
+    "earth.terrarium.tempad.client.screen.tempad.TeleportScreen": true,
+    "earth.terrarium.tempad.client.screen.tempad.NewLocationScreen": true,
+    "xerca.xercapaint.client.GuiCanvasEdit": true,
+    "blusunrize.immersiveengineering.client.gui.GunTurretScreen": true,
+    "blusunrize.immersiveengineering.client.gui.ChemTurretScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true,
+    "me.chrr.camerapture.gui.PictureFrameScreen": true
+  }
+}

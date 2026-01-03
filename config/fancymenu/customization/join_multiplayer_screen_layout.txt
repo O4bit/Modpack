@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = join_multiplayer_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1747489877629
+  last_edited_time = 1747513668662
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:05304b24-6da5-4cc3-9e19-8567ae8b071e-1747489847478] = [groups:][instances:]
+  [loading_requirement_container_meta:4a222aee-b9bd-48de-808f-4e4b05f98989-1747513487975] = [groups:][instances:]
 }
 
 customization {

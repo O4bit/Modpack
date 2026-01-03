@@ -1,0 +1,13 @@
+name = "Yuushya Modelling"
+filename = "yuushya_modelling-neoforge-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RxVV6ldg/versions/sVnxWyAO/yuushya_modelling-neoforge-2.3.0.jar"
+hash-format = "sha512"
+hash = "ed1b259b80b60f19ae0af479bb411f85f65e5cd05fcb2fec1319433bd8bd080dfa6376112f17f537abae2431e7c9478c50e33e44a4bf5d17f1086c7df661a726"
+
+[update]
+[update.modrinth]
+mod-id = "RxVV6ldg"
+version = "sVnxWyAO"

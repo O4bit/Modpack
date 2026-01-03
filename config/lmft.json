@@ -1,3 +1,4 @@
 {
-  "disableIngameError": true
+  "disableIngameError": false,
+  "showToOnlyPrivileged": false
 }

@@ -1,13 +1,13 @@
 name = "Macaw's Windows"
-filename = "mcw-windows-2.4.0-1.20.1fabric.jar"
+filename = "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/C7I0BCni/versions/dyF0942x/mcw-windows-2.4.0-1.20.1fabric.jar"
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
 hash-format = "sha512"
-hash = "ed01451467ffc7ae87896679d47dc395816f4b4331c392b13aa007124f5225605adffd4ce556480fbab4f02e311d52222294b8916e54b567641f5e570fa1ffd2"
+hash = "7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f"
 
 [update]
 [update.modrinth]
 mod-id = "C7I0BCni"
-version = "dyF0942x"
+version = "rQUE4LCz"

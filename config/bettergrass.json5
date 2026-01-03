@@ -2,7 +2,7 @@
 	/* -> General
 	   OFF/FAST/FANCY (default: FANCY)
 	*/
-	"betterGrassMode": "FANCY",
+	"betterGrassMode": "OFF",
 	// (default: true)
 	"resourcePackCompatibilityMode": true,
 	/* Blocks
@@ -27,21 +27,15 @@
 		"minecraft:sculk_catalyst"
 	],
 	/* -> Better Snow
-	   OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	   OFF/OPTIFINE/LAMBDA (default: LAMBDA)
 	*/
-	"betterSnowMode": "OPTIFINE",
+	"betterSnowMode": "LAMBDA",
 	"snowLayers": [
 		"snow",
-		"moss_carpet"
+		"moss_carpet",
+		"pink_petals"
 	],
-	"excludedTags": [
-		"buttons",
-		"doors",
-		"fire",
-		"leaves",
-		"pressure_plates",
-		"rails"
-	],
+	"excludedTags": [],
 	"excludedBlocks": [
 		"lantern[hanging]",
 		"redstone_wall_torch",

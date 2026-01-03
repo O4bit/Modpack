@@ -1,13 +1,13 @@
 name = "Diagonal Windows"
-filename = "DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+filename = "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oOi0CKes/versions/mwIl45jn/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/IwUmOLxe/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "b575ba4e88e5f2af123b560e41f6116e1ac191e8b9a9b7d45dcc7eb9b2a6572f718328694cbad595ed2d704e465098f1fd9c0157db801aefff5a3c320faf3ada"
+hash = "fd335b7789321a1d0de9691d855c2bcc51d669f4614bdd2cd6fe17f7881f9dd39e63cb28c39a1a1798e98a6876ad1658ef2e3805e884f13e4650810611227849"
 
 [update]
 [update.modrinth]
 mod-id = "oOi0CKes"
-version = "mwIl45jn"
+version = "IwUmOLxe"
