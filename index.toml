@@ -110,7 +110,7 @@ hash = "4f5e8b4d545db7a6755e6c7b17b72b525c7e05ae61a538f51c37260d3ebca559"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "21a3a1ec0c60b43a62daa83a6087a311464f0834059f3c69a7ef7cde5dcc21cb"
+hash = "f809b0bde246ead4b3e27122f738306bacceae9a20bdefd487d3bd68cd6df070"
 
 [[files]]
 file = "config/bcc-common.toml"
