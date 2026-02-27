@@ -1,13 +1,13 @@
 name = "Camerapture"
-filename = "Camerapture-1.10.8+mc1.21.1-neoforge.jar"
+filename = "Camerapture-1.10.12+mc1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/F6N0Xi1M/Camerapture-1.10.8%2Bmc1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/bCB7PwmA/Camerapture-1.10.12%2Bmc1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "3a6144d96a1fa47bb16f612bcb5303ca45ee7e1bc187d20374f8910260dffc71b8a036d35c52f044ce7a8c72828766b618b9e670a216adb35d1ffbccb2f28248"
+hash = "c6457df1a81f0b48efec54d0e03057afd22d169f10cda97549192300a0d818f9b7551e2aa4008999d207615d06104b529c72728d1ebafb210b6d2adfafb0f3d8"
 
 [update]
 [update.modrinth]
 mod-id = "9dzLWnmZ"
-version = "F6N0Xi1M"
+version = "bCB7PwmA"

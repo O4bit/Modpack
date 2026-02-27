@@ -1,13 +1,13 @@
 name = "Underlay"
-filename = "underlay-0.9.9-neoforge-mc1.21.jar"
+filename = "underlay-1.0.0-hotfix.1-neoforge-mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iltKD9qU/versions/BhWyWk80/underlay-0.9.9-neoforge-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/FJGiEsK3/underlay-1.0.0-hotfix.1-neoforge-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "2abef4ddbed7243c1e5fb94e20890f139d2bb0ddec80fe8a8f72052c201deed4ff746b6fbcf157bea79e2be827520074d3b45ee1083c970aa067119520e4a546"
+hash = "0e8d24e59772c5a465328e5d048ce066eebfdff7ee3d62f818677e72f939cda5dcbc57bc6bba10d13e115f1caf4d2d41138a0c9f3876fc92135448cedef5ba0c"
 
 [update]
 [update.modrinth]
 mod-id = "iltKD9qU"
-version = "BhWyWk80"
+version = "FJGiEsK3"
