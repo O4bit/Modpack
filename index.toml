@@ -417,28 +417,84 @@ file = "config/fancymenu/assets/better_building.png"
 hash = "73b5d61f8e9654cb9610c571f1476e093e90770b206e2cf843e59a1974e49735"
 
 [[files]]
-file = "config/fancymenu/assets/logo.png"
-hash = "1a9c99b27d2728bba0dbcb7ff416f49e22d91e6e772ff65e4d0e161b70db53da"
+file = "config/fancymenu/assets/headerbb.png"
+hash = "f3a8e16387e5d2e453bf5d13d21a33db1fe1e5654df04dc4cb4b255d70000762"
 
 [[files]]
-file = "config/fancymenu/assets/logo16.png"
-hash = "ded01b3333884c24245a5ab1e4446e4f8cc01c4a29d0612acbe825bd76c15654"
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "99087508c5d3cde7c85da6f5ca0e613f044e78a99772f34a2248320a7ad68224"
 
 [[files]]
-file = "config/fancymenu/assets/logo32.png"
-hash = "d4d07d6e16815de7c0420d73580dc9f72546b88cf2e3e7440b974d2b28a5fe57"
+file = "config/fancymenu/assets/minecraft_titlebb2.png"
+hash = "7634fb16e7f56f1f3edae30adcbcd6590b478f4e282a1af4fd9928b2a068399b"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_titlebb2title.png"
+hash = "f616303a1a8d13a66253514551959a5628b92b75c3aecb03695d11cb3465ae48"
 
 [[files]]
 file = "config/fancymenu/assets/model.png"
 hash = "fb99792bfc165cb506a49ac2ff1b05d9dd350a108fd27aa8d455cc0c9429c247"
 
 [[files]]
-file = "config/fancymenu/assets/output-onlinepngtools.png"
-hash = "3e6f918359832ece3ac8d1cc63a1264a4cb3b82d2bfce247bce4d13aa11caa18"
+file = "config/fancymenu/assets/mods_button.png"
+hash = "606d433263bb2a5581fd6784fccd05c39fe11adaab9d1d96bee8a6e06e192586"
 
 [[files]]
-file = "config/fancymenu/assets/panorama_2.png"
-hash = "1441a6025ecca62c2a72e1d00615821d3dab6ade105cd050048f93e3c24caff7"
+file = "config/fancymenu/assets/mods_button_highlighted.png"
+hash = "94b4a517ecfeaaac885d6ff3575958c0fc2be8d48f671774bb3c95392d993162"
+
+[[files]]
+file = "config/fancymenu/assets/multiplayer_button.png"
+hash = "5e3b47c6b092e280acb9a2699573d80d34403b5e3783aca38003287be7aa4668"
+
+[[files]]
+file = "config/fancymenu/assets/multiplayer_button_highlighted.png"
+hash = "8bcbd44862a1de76e5793413bfcc48cfa34cb6107329d333c861d7904035d324"
+
+[[files]]
+file = "config/fancymenu/assets/options_button.png"
+hash = "0acfe88408b1a89a4cbfd62070729e57ed1e49e283899f46168128b4c344212c"
+
+[[files]]
+file = "config/fancymenu/assets/options_button_highlighted.png"
+hash = "14f8def4b12d5550f595846f5c5b8ee797292f1b2b7a0d2fa85cbfc9c192261e"
+
+[[files]]
+file = "config/fancymenu/assets/panorama_2_upscayl_4x_upscayl-standard-4x.png"
+hash = "76b3b574e713a11a150f7e3003a2d0b50ef217c5a62536dd4fa833236e8b8b32"
+
+[[files]]
+file = "config/fancymenu/assets/quit_game_button.png"
+hash = "bcfc7132596dca39ce9e58d96f1790cc0131517c6f1803cb066208c0b95d53f7"
+
+[[files]]
+file = "config/fancymenu/assets/quit_game_button_highlighted.png"
+hash = "3ae99d28a3f71f99c6d7fcbf789cfe6e05fd599b4c086c4316c54b2c82d1814a"
+
+[[files]]
+file = "config/fancymenu/assets/rent_server_button.png"
+hash = "77603dc5e329a9b1a13572d687e20c317df7666b15a51530555d97fff530e245"
+
+[[files]]
+file = "config/fancymenu/assets/rent_server_button_highlighted.png"
+hash = "b2b77f41d0fb54dc570a3469f234ce6280f9311a607c48ec5a60c6110355aa5c"
+
+[[files]]
+file = "config/fancymenu/assets/singleplayer_button.png"
+hash = "f0012194c8c7a13fbc862b70b5a0887b6e29f97914f067d6d93a8f5048b85fd4"
+
+[[files]]
+file = "config/fancymenu/assets/singleplayer_button_highlighted.png"
+hash = "21a139cef44a3636c65f0579cfcae95886cbd60f5a57ad6d5378817206cdaa13"
+
+[[files]]
+file = "config/fancymenu/assets/studios.png"
+hash = "5338e080e40209960138250fa2ef37d07aef852a4df2186ed800f2aa48646e61"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "9f2c3cd67d0bccf8b0b49491d5b9d80517b5a8a63569aa833898284821b7147e"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -446,43 +502,39 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "aaf68999e3a4e7cced57902c01200d0df17d11fb78e7b4e130f2b4140d568d11"
-
-[[files]]
-file = "config/fancymenu/customization/creative_mode_inventory_screen_layout.txt"
-hash = "cac72019280234b044d1af76691137eba179e4a7116e941da0a029bb543674a9"
+hash = "ce0d84b2b57cf5f1f8223fe000ffe065ed91791a27b82411a9028bf2b85d8647"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "1e669f139a7a796871488325da1a8e366365cfb6cc255e30594f2dff4efd71b2"
+hash = "61252fa19b1793301efe91563096e117b2fe185cb6a6b7cfde447fe539d05fd7"
 
 [[files]]
-file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
-hash = "cc0c0f850bde679efd65031cd060af7cce1c793dbc27f328d0460104ccd73817"
+file = "config/fancymenu/customization/valhelsia-ingame_menu.txt"
+hash = "a7f918417f60c44b9b23371026e68c3c68dbcd09e05551ca5785227630e025e9"
 
 [[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a2269d1c78f5c4ec05e920f969acee848f76453f40f3f86f4c43750391e8645d"
+file = "config/fancymenu/customization/valhelsia-main_menu.txt"
+hash = "10775047599c93c583f45d3dc40a6afbcf89cc8566cdb3b0b7bab5f4f1198257"
 
 [[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt.orig"
-hash = "d4ecc66eebcdb99093b01364c3dd771f3a722ca5b778d1c408a3ef38e4779d2a"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_1.txt"
-hash = "13260445ddb593228d66ac40ec82ad4804643965493589b83370fccd3062a83a"
+file = "config/fancymenu/customization/valhelsia-skin_menu.txt"
+hash = "1eb30d34c520d9088bd59c1458f7a81533cdb49898afd3caa307add21ac4f3f5"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "c6faced86dd2ef840c5821206f302387c07074f0e171587cf90c063bf696446d"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "fe945568429fc05e320cf8d0b52be864c1f2a8622f9ea67e9af9c604c5438dda"
+hash = "d55a0134d3088820b54ce0443582c3d5d88251b3310cb9e5ab34a4c8525e3d69"
 
 [[files]]
 file = "config/fancymenu/panoramas/background/panorama/panorama_0.png"
