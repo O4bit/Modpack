@@ -1541,11 +1541,6 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "f9b1fbbb47ce9eb83e43037c6bce1a49167743094feeef1e4c941e9252a1131d"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
@@ -1663,11 +1658,6 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
-metafile = true
-
-[[files]]
-file = "mods/lmps.pw.toml"
-hash = "7838e6aa3eb15051333427ec2d27ef7e020b2f6e90db2492f14eef21e6896880"
 metafile = true
 
 [[files]]
@@ -1846,11 +1836,6 @@ hash = "abbc578edb433a907ecd902fd812ef988a955415f14fd7e41df1acd8ecfe091e"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
@@ -1963,16 +1948,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-hang-fix.pw.toml"
-hash = "12ba0ba9a27c6680d61f6c7199172cc739d1f18ec94124d32c8581c1f8bd804c"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
