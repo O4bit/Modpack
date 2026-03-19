@@ -1523,11 +1523,6 @@ hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "368969d82c72b90e1f9a9ff70007d9a7b2fa0e2b075e1f07221badc562ea03e9"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "98e02478bc3be30b8eb4e62b8fb116a5805caea3cf557f17d36c633d840fe223"
 metafile = true
