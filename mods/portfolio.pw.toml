@@ -1,13 +1,13 @@
 name = "Portfolio"
-filename = "portfolio-1.21.1-1.5.1-neoforge.jar"
+filename = "portfolio-1.21.1-1.5.5-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2k6aLirX/versions/a67q4qTl/portfolio-1.21.1-1.5.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/2k6aLirX/versions/I4pPTqou/portfolio-1.21.1-1.5.5-neoforge.jar"
 hash-format = "sha512"
-hash = "6397f1cf7bd7d6b9cd470b7f00a4fe27d171f282b040fd4f39904a39d25e6588feae9f23738e9711e194b1e4455e78d60ec6c92f96fb8ecdeddb14a21ce9b7d9"
+hash = "77aac61186cf0b85c32610158b0e3a3953aca78199eb6c54b072ab166a9c13ed2b91013061b87bf93c2781d3626166c47d67babc4ad50689452704a4aefe7175"
 
 [update]
 [update.modrinth]
 mod-id = "2k6aLirX"
-version = "a67q4qTl"
+version = "I4pPTqou"
