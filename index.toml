@@ -1234,7 +1234,7 @@ hash = "3ffd68592c56613e2e50f6240daa300f9fe3357e4e06395c6a2af79a1b16e0bd"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
-hash = "b98293ec08693f0b6a423ff0f7cbd973918ceecf270a09e06c56d8a3c551af69"
+hash = "f2d5b4496f42387ccec78952f18869055b219b7282dacac69fe72a23e6e5dec3"
 metafile = true
 
 [[files]]
@@ -1279,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+hash = "90b81c1bd8c7c60e5389a41616bc0c6f738d3fcef80c8857e80c17652f414a06"
 metafile = true
 
 [[files]]
@@ -1339,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "7892bf3e3c6d05dca2d0e4ba9414a229f1a415f3326ebe204af9119cf7fa5f01"
+hash = "e734054390df547584e7f3ca56cfbfb235ac4f13cc7d2c0fda730f83f836d4b5"
 metafile = true
 
 [[files]]
@@ -1349,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "113f65b62b62a8b34d50c1dc3260106581aaf5b84d10dc15c0195a9488a61453"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
@@ -1384,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ce6431a9edddba0a6f756f55bb3b2f81261c36eda44dfad8612f16b4a07e29db"
+hash = "d683d988aa244a7b2677b35c7ca900fc7da7bd8f3cbbbb72fa36a33ea77a54d1"
 metafile = true
 
 [[files]]
@@ -1464,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-optical.pw.toml"
-hash = "5a78ece537f60bad02193bde40ac7fa0750a0d4a60117b0c93d8dd59aae3c94c"
+hash = "c6fca88f1d93012d0101d9f4519e432a84f94750d9fa693250b0f122104b8eb7"
 metafile = true
 
 [[files]]
@@ -1554,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
+hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
 
 [[files]]
@@ -1739,7 +1739,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "f999bf28a0b46d05697e322e6ee7557c1133729812966d1ef9450531032eae67"
+hash = "643d332b262b72f86f806cc1410b4354803a07b6012c1210f06d2ca231cccd30"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
+hash = "579103387e2bad8c05c78bff288bf8555349033856ae10c069296b04b06e5956"
 metafile = true
 
 [[files]]
@@ -1944,7 +1944,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "0b8161b7e8c71379084080673b304a090e187b1ad45ddc2bb90ebae11f401f6f"
+hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
@@ -1954,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
+hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
 metafile = true
 
 [[files]]
