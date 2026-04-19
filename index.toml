@@ -1234,7 +1234,7 @@ hash = "3ffd68592c56613e2e50f6240daa300f9fe3357e4e06395c6a2af79a1b16e0bd"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
-hash = "f2d5b4496f42387ccec78952f18869055b219b7282dacac69fe72a23e6e5dec3"
+hash = "395d4093dc758f43f50adc813d92dfcd1936dc83f31c048af255d97ba588746f"
 metafile = true
 
 [[files]]
@@ -1359,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+hash = "70c4fe11582592bf38c8ac86b0d5923593772191fdcdf39de4b2c4b949c04f3d"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "4416c1911dac506eed6162e8b66c966baec9bbb1e38ee9bc8570eac797d405f3"
+hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
 metafile = true
 
 [[files]]
@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "9db6b697952d190c3c3fc6024f74713d74a808e5ec85c1adfd3e23ca769cd588"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
 metafile = true
 
 [[files]]
@@ -1619,7 +1619,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "590367627beaf24a765bac0b3970b278d242045ef095a848dfba0615ab449bae"
+hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
 metafile = true
 
 [[files]]
@@ -1779,12 +1779,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
+hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "579103387e2bad8c05c78bff288bf8555349033856ae10c069296b04b06e5956"
+hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
 
 [[files]]
