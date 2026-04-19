@@ -2023,11 +2023,6 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "mods/yuushya-modelling.pw.toml"
-hash = "02fab49e59a5229b438c96dae9ab008a8bb5a3051706c4ce2430dd7c514acf8f"
-metafile = true
-
-[[files]]
 file = "shaderpacks/BSL_v10.0.zip"
 hash = "b6e79a4f5746bd0b2bd8d54bb4c430539e7e747e8679ac985bc07368422e4e09"
 
