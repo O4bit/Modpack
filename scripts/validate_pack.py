@@ -10,6 +10,22 @@ ROOT = Path(__file__).resolve().parents[1]
 def digest(path, algorithm):
     return hashlib.new(algorithm.replace('-', ''), path.read_bytes()).hexdigest()
 
+def validate_download(meta, relative):
+    download = meta['download']
+    mode = download.get('mode') or 'url'
+    if mode == 'metadata:curseforge':
+        provider = meta.get('update', {}).get('curseforge', {})
+        for key in ('project-id', 'file-id'):
+            value = provider.get(key)
+            assert type(value) is int and value > 0, f'{relative}: CurseForge {key} must be a positive integer'
+    elif mode == 'url':
+        url = download.get('url', '')
+        assert url, f'{relative}: URL download is missing download.url'
+        assert urlsplit(url).scheme == 'https' and urlsplit(url).netloc, f'{relative}: download.url must be an absolute HTTPS URL'
+        assert url.isascii() and not any(c.isspace() for c in url), f'{relative}: unescaped download URL'
+    else:
+        raise ValueError(f'{relative}: unsupported download mode {mode!r}')
+
 def main():
     pack = tomllib.loads((ROOT / 'pack.toml').read_text())
     assert pack['versions'] == {'minecraft': '1.21.1', 'neoforge': '21.1.264'}
@@ -29,11 +45,12 @@ def main():
         assert digest(path, entry.get('hash-format', index['hash-format'])) == entry['hash'], relative
         assert relative.parts[0] not in {'saves', 'logs', 'screenshots', 'fancymenu_data', 'xaero', '.bobby'}
         if entry.get('metafile'):
-            meta = tomllib.loads(path.read_text())
+            try:
+                meta = tomllib.loads(path.read_text())
+            except tomllib.TOMLDecodeError as error:
+                raise ValueError(f'{relative}: {error}') from error
             assert meta['side'] in {'client', 'both'}, f'Client pack would skip {relative}'
-            url = meta['download']['url']
-            assert urlsplit(url).scheme == 'https' and urlsplit(url).netloc
-            assert url.isascii() and not any(c.isspace() for c in url), f'Unescaped download URL: {relative}'
+            validate_download(meta, relative)
             assert '/' not in meta['filename'] and '\\' not in meta['filename']
             destination = relative.parent / meta['filename']
             assert destination not in download_targets, f'Duplicate download target: {destination}'
