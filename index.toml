@@ -3106,6 +3106,11 @@ hash = "42661deaab87ac4ebab8290f3a16b066869dbaeaa840f7f13030b9cb7d328267"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
 file = "mods/armature-lib.pw.toml"
 hash = "e26e72eb3a0a9c9c0844205725dc59f398986f8e614d579cf04eb2a62cedb77a"
 metafile = true
@@ -3152,7 +3157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby-reneoforged.pw.toml"
-hash = "e9b2ceb4a4e3a8fb351d4e55f974305f663ec81c2442b896b610025018d3f19e"
+hash = "f4612bf49d947284cf12684f64cd9703d92cdb2fb3ecd8c38e16bce10d85f245"
 metafile = true
 
 [[files]]
@@ -3371,6 +3376,16 @@ hash = "f3081c726a938f0aefb6878f8388e00b20a7f9ecd81c23e1920172fbf3b4b231"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "c5e0ef49a9f821eaa020985c8ad8ec231bfc3c56bf5bcbc137df96ad7241f479"
 metafile = true
@@ -3428,11 +3443,6 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "dc8856de519251f8ccf56fe364370ebdd9bd275e982c66d01724b20e2042c7db"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "9b44b861ecebfe5b5e2db595c176c7a22273b6370e658517dc49243ffdfaeb47"
 metafile = true
 
 [[files]]
