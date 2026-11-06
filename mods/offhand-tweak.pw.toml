@@ -1,0 +1,17 @@
+name = "Offhand Torch & Lantern Tweak"
+filename = "offhand_tweak-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bieVeZVS/versions/arSl0ywn/offhand_tweak-1.1.0.jar"
+hash-format = "sha512"
+hash = "e0e26270b4217415ebeeb8ddd87758398f1e0f2a2955da82f1a53b41a9ee865dee79b033e7dd7351711a57ac9cbd2d5dda5bf473c600e6ae7b4ac69ddb184b0c"
+
+[update.modrinth]
+mod-id = "bieVeZVS"
+version = "arSl0ywn"
+
+[option]
+optional = true
+default = true
+description = "Prevents placing your last offhand torch or lantern."

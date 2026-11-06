@@ -3,8 +3,8 @@
 Local packwiz conversion of **Create Stellar 2.0.2**, originally by **ellipog**,
 for **Minecraft 1.21.1 / NeoForge 21.1.264**.
 
-This snapshot follows the current working Prism instance: 143 pinned mods,
-including Simple Voice Chat and the installed client additions. It includes
+This pack is based on the working Prism snapshot, with pinned mods,
+including Simple Voice Chat and subsequent additions. It includes
 the pack's 765 configuration/quest/assets overrides, resource packs and shader.
 Mod JARs are downloaded from their original Modrinth/CurseForge URLs.
 
@@ -32,6 +32,10 @@ Installing into a fresh instance is recommended when switching from Better
 Building. This is a client pack; use the separate dedicated-server package for
 hosting. Common mods are marked `both` based on the upstream server pack;
 the remaining mods and resource packs are marked `client`.
+
+Sodium is required. LambDynamicLights, Offhand Torch & Lantern Tweak, and
+Sodium Extra are optional client mods, selected by default. Compatible updaters
+such as unsup let players choose whether to install them.
 
 ## Maintain
 

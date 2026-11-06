@@ -3487,7 +3487,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "88ce67a644ff425064dc24478ed35e1f603975d4699d6d48946fd7a3ecde45d0"
+hash = "49177b559d01e4895051caa37479d14c5d89859c0d29199bb66b1fb65176bab0"
 metafile = true
 
 [[files]]
@@ -3563,6 +3563,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "0bc3b331a52544f2fd9dfc7938a64d27409389cb68e644481333be1077c18b9f"
+metafile = true
+
+[[files]]
+file = "mods/offhand-tweak.pw.toml"
+hash = "20a4655b3f9eec6580a224a549b1af09d2f1930e50a2bc0ac9d3967c9705c1f2"
 metafile = true
 
 [[files]]
@@ -3663,6 +3668,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "2785b13ce95f7513f4a3938fe03dc0127022e9a956f27a6c70577b7a12275b50"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "788cb70e67e39c094f7c6326505b98cac93b477e2d2704e8b49ef834d052eb08"
 metafile = true
 
 [[files]]
