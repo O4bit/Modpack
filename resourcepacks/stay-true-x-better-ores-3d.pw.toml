@@ -1,0 +1,12 @@
+name = "Stay True x Better Ores 3D"
+filename = "Stay True x §7Better§bOres§93D§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Yj8BvGb/versions/5GEOLuUj/Stay%20True%20x%20%C2%A77Better%C2%A7bOres%C2%A793D%C2%A70.zip"
+hash-format = "sha512"
+hash = "f09ec5824b962ae91540322cf24afa02cd6b2864df9a8a32549604cb9b332cf714a566a522dff234798537c95a8a71480e9f19a581cdc0c53c444971124babca"
+
+[update.modrinth]
+mod-id = "6Yj8BvGb"
+version = "5GEOLuUj"

@@ -1,13 +1,13 @@
-name = "Better Building"
-author = "O4bit"
-version = "8.0.9"
+name = "Create Stellar"
+author = "ellipog; packwiz conversion by O4bit"
+version = "2.0.2-local.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a201e0d0f68eb64ea2778db99aee34a841caa779a142b5b2fd9fc3623082eb6"
+hash = "21f81a952f2d39280dde7205bd3ec7ee37cff6dac6102e59bdb9ec3e916db440"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.222"
+neoforge = "21.1.264"

@@ -1,0 +1,12 @@
+name = "Mystical Customization"
+filename = "MysticalCustomization-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar"
+hash-format = "sha1"
+hash = "483c44e51b8f4c8dd24c239f945a819da766d219"
+
+[update.curseforge]
+file-id = 7666340
+project-id = 280441

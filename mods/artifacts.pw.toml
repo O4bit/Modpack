@@ -1,0 +1,12 @@
+name = "Artifacts"
+filename = "artifacts-neoforge-13.2.5.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar"
+hash-format = "sha1"
+hash = "fb6cd3be2d034dde369ffd7558c95c6daa44189e"
+
+[update.curseforge]
+file-id = 8791899
+project-id = 312353

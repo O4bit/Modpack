@@ -1,6 +1,11 @@
 [general]
 	tooltip_hints = true
-	custom_configured_screen = true
+	#Makes dynamically generated assets depend on texture packs too and not just vanilla files
+	texture_pack_support = false
+	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
+	dynamic_assets_generation_mode = "CACHED"
+	#Disables the chat warning shown when Enhanced Block Entities is installed
+	no_enhanced_block_entities_warn = false
 
 [sign]
 	#Gives signs a pixel consistent model and texture. Also affects other mods. This also makes them use a Block Model, making them render much much much faster than as block entities
@@ -9,7 +14,7 @@
 	# Default: 1.2
 	# Range: 0.0 ~ 5.0
 	text_color_multiplier = 1.2
-	#A list of sign blocks that will NOT be affected by the pixel consistent sign setting. Use full registry names separated by commas
+	#A list of sign blocks that will NOT be affected by the pixel consistent sign setting
 	sign_blacklist = []
 
 [projectiles]
@@ -77,6 +82,8 @@
 [lantern]
 	#Makes wall lantern use a simple block model instead of the animated tile entity renderer. This will make them render much faster but will also remove the animationNote that this option only affect lanterns close by as the one far away render as fast by default
 	fast_lanterns = false
+	#Shades swinging wall lanterns like an item instead of like a block. Makes them look the same on every wall, but loses ambient occlusion
+	entity_shading = true
 	#Size lanterns when held in hand
 	# Default: 0.625
 	# Range: 0.0 ~ 2.0
@@ -112,6 +119,8 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 2.0
 	torch_item_size = 1.0
+	#Renders a flame particle on top of held torches
+	torch_item_flame = false
 	#Gives a special animation to supplementaries candle holders when held in hand
 	candle_holder_item_holding = true
 	#Size lanterns when held in hand
@@ -122,3 +131,5 @@
 	fixed_holding_animations = false
 	#Prevents campfire smoke from rendering if there is a solid block above it
 	campfire_smoke_through_blocks = false
+	#Gives the villager trade buttons the same look loom and stonecutter buttons have
+	villager_trade_buttons = true

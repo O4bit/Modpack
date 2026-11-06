@@ -1,0 +1,12 @@
+name = "YUNG's Bridges (NeoForge) [1.20.4 - 1.21.1 ONLY]"
+filename = "YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5812/553/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash-format = "sha1"
+hash = "18099c2d54acd16bb8ab90a66f40fa16496d065e"
+
+[update.curseforge]
+file-id = 5812553
+project-id = 1015149

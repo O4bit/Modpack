@@ -1,0 +1,12 @@
+name = "Tenet"
+filename = "tenet-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9162/922/tenet-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "1bd5bebe033120cac3929bd0259284a6425b616a"
+
+[update.curseforge]
+file-id = 9162922
+project-id = 1732451

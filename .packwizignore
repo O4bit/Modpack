@@ -1,10 +1,21 @@
-# .packwizignore follows the same format as .gitignore, and can be used to exclude unwanted files from pack exports
-# See https://git-scm.com/docs/gitignore
-
-# Exclude README
+/.git/
+/.github/
+/scripts/
 /README.md
 /LICENSE
 /CNAME
+/packwiz
 /packwiz.exe
-.github/workflows/static.yml
-index/
+/.gitignore
+/.gitattributes
+/.packwizignore
+/_site/
+/dist/
+/saves/
+/logs/
+/crash-reports/
+/screenshots/
+/servers.dat*
+/options.txt
+/doogle.png
+/doogle.webp

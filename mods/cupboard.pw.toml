@@ -1,13 +1,12 @@
 name = "Cupboard"
-filename = "cupboard-1.21-3.5.jar"
-side = "both"
+filename = "cupboard-1.21.1-4.2.jar"
+side = "client"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar"
 hash-format = "sha1"
-hash = "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70"
-mode = "metadata:curseforge"
+hash = "6c2d786a161f49470dad92b2edaefdac38a1e79b"
 
-[update]
 [update.curseforge]
-file-id = 7746488
+file-id = 8889050
 project-id = 326652

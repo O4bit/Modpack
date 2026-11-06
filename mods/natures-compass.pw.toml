@@ -1,0 +1,12 @@
+name = "Nature's Compass"
+filename = "NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7892/954/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+hash-format = "sha1"
+hash = "e19721873bebc4dbc1674bb101af39d0ea406b95"
+
+[update.curseforge]
+file-id = 7892954
+project-id = 252848

@@ -52,19 +52,18 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
   },
-  "camerapture": {
-    "picture_frame": true
-  },
-  "tempad": {
-    "chronon": true,
-    "rudimentary": true,
-    "metronome": true,
-    "anchor": true,
-    "workstation": true,
-    "timedoor": true
+  "apothic_spawners": {
+    "spawner": true
   },
   "jade_access": {
     "held_item": true,
@@ -73,18 +72,11 @@
     "entity": true,
     "entity_variant": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
+  "createsifter": {
+    "data": true
   },
-  "immersiveengineering": {
-    "multiblock_icon": true
-  },
-  "supplementaries": {
-    "hat_stand": true
+  "jadeaddons.computercraft": {
+    "computer_id": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -97,7 +89,47 @@
     "block_properties": false,
     "mod_name": true
   },
-  "underlay": {
-    "overlay": true
+  "apotheosis": {
+    "adventure": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "apothic_enchanting": {
+    "ench": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

@@ -1,0 +1,12 @@
+name = "Ad Astra"
+filename = "adastra-1.21.1-1.16.26-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8874/894/adastra-1.21.1-1.16.26-neoforge.jar"
+hash-format = "sha1"
+hash = "b6c4560cc625a6847e016af576954ff1f0431d99"
+
+[update.curseforge]
+file-id = 8874894
+project-id = 635042

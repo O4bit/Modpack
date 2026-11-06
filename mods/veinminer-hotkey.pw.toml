@@ -1,0 +1,12 @@
+name = "VeinMiner Hotkey"
+filename = "veinminer-client-neoforge-2.11.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8512/780/veinminer-client-neoforge-2.11.2%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "d2abcd4e525bece98f6202b258a1960d9a8cac8a"
+
+[update.curseforge]
+file-id = 8512780
+project-id = 1556590

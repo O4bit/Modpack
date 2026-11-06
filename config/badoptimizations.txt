@@ -14,7 +14,7 @@ lightmap_time_change_needed_for_update: 80
 
 # Whether the sky's color should be cached unless you're on a biome border.
 # Has no effect in Minecraft 1.21.11+ as the sky color was made data-driven.
-enable_sky_color_caching: false
+enable_sky_color_caching: true
 # How much the in-game time must change in ticks for the sky color to
 # be recalculated when not between biome borders. Higher values will result in
 # the sky updating less frequently, but slightly better performance.
@@ -36,7 +36,7 @@ enable_particle_manager_optimization: true
 enable_toast_optimizations: true
 # Whether the result of getSkyAngle should be cached
 # for the entire frame during rendering.
-enable_sky_angle_caching_in_worldrenderer: false
+enable_sky_angle_caching_in_worldrenderer: true
 # Whether entity renderers should be stored directly in EntityType instead of a HashMap.
 # If your entity-adding mod crashes with BadOptimizations, try disabling this first.
 enable_entity_renderer_caching: true

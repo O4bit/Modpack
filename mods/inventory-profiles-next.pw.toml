@@ -1,0 +1,12 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7810/574/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
+hash-format = "sha1"
+hash = "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc"
+
+[update.curseforge]
+file-id = 7810574
+project-id = 495267

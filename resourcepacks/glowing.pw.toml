@@ -1,0 +1,12 @@
+name = "Glowing"
+filename = "Glowing-OF_v0.5.0-mc1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/16olY6M5/versions/vgkAqxZJ/Glowing-OF_v0.5.0-mc1.21.zip"
+hash-format = "sha512"
+hash = "826e7935db14d39bc1e8c5a9af2dd12e70476d76b5f5f44321d5ec044fd87b9f842c47c7f939ccac6c03c702559ee86f72ee4810abbbd0169bbb1d93303da2ff"
+
+[update.modrinth]
+mod-id = "16olY6M5"
+version = "vgkAqxZJ"
