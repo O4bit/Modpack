@@ -37,6 +37,12 @@ Sodium is required. LambDynamicLights, Offhand Torch & Lantern Tweak, and
 Sodium Extra are optional client mods, selected by default. Compatible updaters
 such as unsup let players choose whether to install them.
 
+For excessive anvil costs, Too Expensive Removed caps an item's accumulated
+prior-work penalty at 25. Move the affected equipment and enchanted book into
+your inventory using normal cursor clicks, then put them back in the anvil.
+Shift-clicking does not trigger the correction. Normal enchantment charges
+still apply, and the mod must also be installed on the multiplayer server.
+
 ## Maintain
 
 Run commands from this repository:

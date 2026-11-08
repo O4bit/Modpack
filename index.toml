@@ -3741,6 +3741,11 @@ hash = "dccdfb59bead8ce7ad3398bd7662fe4be0f5aacc3eeef31a26647e343558b0c9"
 metafile = true
 
 [[files]]
+file = "mods/too-expensive-removed.pw.toml"
+hash = "78b309e6886f1ad7cb4371f3a04178b084cb334a5e55971363612d4789ca9711"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "9c4f64a1345ff0b64fcdb1e1b46147862c999d9f4ad539b7d207618679432fb8"
 metafile = true
