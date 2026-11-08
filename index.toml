@@ -3171,6 +3171,11 @@ hash = "899ea745d9ce13bf94349d83f762e885fd2b76b68fcca2426d5dbdb530f04fd0"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
+metafile = true
+
+[[files]]
 file = "mods/citadel-1-21-1-port.pw.toml"
 hash = "091231a907de11ccff92b334a5a58b1a206b7742581bdb4dde72bcc7c4b2b1e0"
 metafile = true
