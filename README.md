@@ -6,7 +6,8 @@ for **Minecraft 1.21.1 / NeoForge 21.1.264**.
 This pack is based on the working Prism snapshot, with pinned mods,
 including Simple Voice Chat and subsequent additions. It includes
 the pack's 765 configuration/quest/assets overrides, resource packs and shader.
-Mod JARs are downloaded from their original Modrinth/CurseForge URLs.
+Mod JARs are downloaded from their original Modrinth/CurseForge URLs, except
+the MIT-licensed anvil compatibility patch described below.
 
 This replaces the original Better Building pack while preserving Git history
 and the repository remote.
@@ -37,11 +38,14 @@ Sodium is required. LambDynamicLights, Offhand Torch & Lantern Tweak, and
 Sodium Extra are optional client mods, selected by default. Compatible updaters
 such as unsup let players choose whether to install them.
 
-For excessive anvil costs, Too Expensive Removed caps an item's accumulated
-prior-work penalty at 25. Move the affected equipment and enchanted book into
-your inventory using normal cursor clicks, then put them back in the anvil.
-Shift-clicking does not trigger the correction. Normal enchantment charges
-still apply, and the mod must also be installed on the multiplayer server.
+For excessive anvil costs, the Stellar patch of Too Expensive Removed clears
+the accumulated prior-work penalty while an item is held with the cursor.
+It handles enchanted books and modded equipment as well as vanilla gear.
+Pick up each affected item, hold it briefly, and put it back in the anvil.
+Normal enchantment charges still apply; enchantments and attributes are preserved.
+The patched JAR must also replace the old JAR on the multiplayer server.
+This is a data-only patch retaining the upstream MIT license and Java classes;
+rebuild it with `python3 scripts/build_anvil_patch.py`, then refresh the index.
 
 ## Maintain
 

@@ -3741,9 +3741,8 @@ hash = "dccdfb59bead8ce7ad3398bd7662fe4be0f5aacc3eeef31a26647e343558b0c9"
 metafile = true
 
 [[files]]
-file = "mods/too-expensive-removed.pw.toml"
-hash = "78b309e6886f1ad7cb4371f3a04178b084cb334a5e55971363612d4789ca9711"
-metafile = true
+file = "mods/too-expensive-removed-stellar-1.2.3.1.jar"
+hash = "77a01c9d92475ec659d40757718d798771921f86d6a634bb228a729906aaa789"
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
